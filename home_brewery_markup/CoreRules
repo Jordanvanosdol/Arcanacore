@@ -1,16 +1,36 @@
-# Arcanacore *V0.01*
+# Arcanacore *V0.02*
 Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
 
 ### Arcanacore combat System.
 The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count starting at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete.
 
-For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 30, about 1 minute of real time have passed.
+For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 30, about one minute of real time have passed.
+
+### Taking your turn
+On your turn you concentrate on 3 main points. (1)movement your base movement as defiend by your race , class, other features. (2) Any action available to you such as casting a spell, making a melee attack, or interactin with an object. (3) traking their initiative impact accrued by their actions and features.
 
 
 ### Initiative Impacting Actions.
 Nearly anything a character can do will cost initiative, or postpone their next until a specific initiative.
-* Class or creature base initiative
-* Action initiative cost
-* Movement initiative cost
-* Spell Recovery time
-* Spell build-up
+
+#### Creature Base Initiative Impact
+When a creature's next turn is reached in the initiative, that creature's following innitiative is increased by a set ammount as described in a creature's statblock or character class description.
+
+For example, most humanoids have an innitiatve impact of 10, however a wood-elf which, would be able to moved more quickly, may be only 8. Thus allowing the would elf to, over time act more frequently.
+
+#### Action initiative cost
+Different actions accrue different levels of initiative impact. A basic Melee attack may have 20 initiative, whereas a smaller action such as an object interaction of pushing a button, may onyl cost two points.
+
+#### Spell Recovery time
+Spell recovery time reflects how much innitiative impact casting a spell adds. This should always be declared in the spell description.
+
+\column
+ 
+
+#### Spell casting time
+Spell casting time refers to the delay between starting the casting spell and how long before the spell effect activates. This should always be declared in the spell description. From the moment a spell casting begins until the spell effect maniftests, as determined by the spell casting time, a creature cannot take an action.
+
+#### reaction
+Reactions are actions you can take before your next turn is reached in initiative. Taking a reaction requires you to be on an initiatve cout that is less the 10 away from your next turn. Additionally most reactions push your turn further out. 
+
+For example, if you qualify for making an opertunity attack on your currently on an initiative count of 65 and your next turn is on 70, you may make an opertunity attack and push your next turn to the 80 intiative count
