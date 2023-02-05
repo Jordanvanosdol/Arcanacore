@@ -1,0 +1,16 @@
+# Arcanacore *V0.01*
+Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
+
+### Arcanacore combat System.
+The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count starting at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete.
+
+For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 30, about 1 minute of real time have passed.
+
+
+### Initiative Impacting Actions.
+Nearly anything a character can do will cost initiative, or postpone their next until a specific initiative.
+* Class or creature base initiative
+* Action initiative cost
+* Movement initiative cost
+* Spell Recovery time
+* Spell build-up
