@@ -1,0 +1,36 @@
+Catagories:
+  -Core Mechanics(Priority 1)(all before Priority 2s)
+  -Classes(Priority 3)
+    -core(Priority 3)
+    -subclass(Priority 4)
+  -Spells
+  -Creatures
+    -playable race features(Priority 2)
+    -monsters/generic NPCS
+  
+  
+Core Mechanics
+  -action costs
+    -attack
+    -object interaction
+    -dash
+    -dodge
+    -hide
+    
+Classes
+  -core
+    -rogue = professional
+    -monk = martial artists
+    -fighter = fighter
+    -barbarian = berserker
+    -paladin = knight
+    -ranger = ragner/skermisher(?)
+    -warlock = cultist
+    -cleric = cleric/priest(?)
+    -druid = druid
+    -wizard = wizard
+    -sorcerer = sorcerer
+    -bard = bard
+ -subclasses
+    -to many for now
+    
