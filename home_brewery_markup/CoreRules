@@ -34,3 +34,80 @@ Spell casting time refers to the delay between starting the casting spell and ho
 Reactions are actions you can take before your next turn is reached in initiative. Taking a reaction requires you to be on an initiatve cout that is less the 10 away from your next turn. Additionally most reactions push your turn further out. 
 
 For example, if you qualify for making an opertunity attack on your currently on an initiative count of 65 and your next turn is on 70, you may make an opertunity attack and push your next turn to the 80 intiative count
+
+## General Combat Actions
+
+
+|    Action  | Initiative Impact |
+|:----------:|:-----------------:|
+| Attack     |20
+| Cast Spell |special*
+| Dash       |10
+| Disengage  |10
+| Dodge      |8
+| Help       |10
+| Hide       |8
+| Ready      |special*
+| Search     |12
+| Use Object |4
+
+{width:150px,border-radius:10px,float:right}
+
+When you take your action on your turn, there are several general combat actions a creature or character can take in combat. The following general actions are available to all creatures: *<u>Attack</u>*, *<u>Cast a Spell</u>* *<u>Dash</u>*, *<u>Disengage</u>*, *<u>Dodge</u>*, *<u>Help</u>*, *<u>Hide</u>*, *<u>Ready</u>*, *<u>Search</u>*, *<u>Use an Object</u>*
+
+##### Attack
+*initiative impact by 20*
+
+When you take the attack action, you make a melee weapon attack, a ranged weapon attack, or an unarmed strike
+
+##### Cast a Spell
+*initiative impacts in the spell description*
+
+On your turn when you cast a spell you have access to. Pay attention to the spell description and requirements  for the spell casting. 
+
+Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, and a Spell Recovery time which defines the initiative impact after casting the spell.
+
+##### Dash 
+*initiative impact of 10*
+
+When you take the Dash action you move up to the full movement speed of any movement available to you.
+
+\page
+
+##### Disengage
+*initiative impact of 10*
+
+On your turn you can take the Disengage action. When you take this action you can move without provoking opertunity attacks
+
+##### Dodge
+*initiative impact of 8*
+
+When you take the dodge action, you force any creature that makes an attack against you at disadvantage.
+
+
+##### Help
+*initiative impact of 10*
+
+You can assit in a skill check granting it advantage on the roll if you are within 5 feet of it. You can alternatively assist in the attack roll of another creature creature granting it advantage on the first attack roll it makes against a creature within 5 feet of you.
+
+##### Hide
+*initiative impact of 8*
+
+When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter. THe Hide action has an
+
+##### Ready
+*special initiative impact*
+
+You can use your turn to ready an action. When you do so, you define a specific trigger to for an action of your choice "<u>*If an enemy gets within five feat of a friendly creature, I'll use my attack action to attack it.*</u>"
+
+After you take your readied action, apply the initiative impact as though you just took a full turn in the initiative progression.
+
+##### Search
+*initiative impact of 12*
+
+When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
+
+##### Use an Object
+*initiative impact of 4*
+
+You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
