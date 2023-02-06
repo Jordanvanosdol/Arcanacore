@@ -1,0 +1,170 @@
+# Berserker
+Berserkers are the rage machine of the battle field. For most combatants, the battlefield is a frietening place, but the *Berserker* thrives and feeds off the chaos. While most are scared or overcome their fear of battle though courage or sheer will power, the Berserker is completely at home in it.
+
+The more they deal damage and the more  they take, the stronger they become and the harder they are to stop.
+
+## The Berserker 
+
+|       | Prof. |          | Max   |
+| Lvl | Bonus | Features | Rage-Score|
+|:-----:|:-----:|:--------:|:---------:|
+| 1st   |   +2  |Unarmered Defence,Rage Pool<br>| 5 |
+|      ^|      ^|      Rage Strikes            ^|  ^|
+|       |       |                               |   |
+| 2nd   |   +2  | Reckless Attack, Danger Sense | 5 |
+| 3rd   |   +2  | Resistance, Berserker Path    | 10|
+| 4th   |   +2  | Ability Score Improvemnt      | 10|
+| 5th   |   +3  | Extra Atack                   | 20|
+| 6th   |   +3  | Path Feature                  | 20|
+| 7th   |   +3  | Build Rage, Fast Movment      | 30|
+| 8th   |   +3  | Ability Score Improvemnt      | 30|
+| 9th   |   +4  | Regeneration                  | 40|
+| 10th  |   +4  | Path Feature                  | 40|
+| 11th  |   +4  | Deep Rage                     | 50|
+| 12th  |   +4  | Ability Score Improvemnt      | 50|
+| 13th  |   +5  | Brave                         | 60|
+| 14th  |   +5  | Path Feature                  | 60|
+| 15th  |   +5  | Regeneration                  | 70|
+| 16th  |   +5  | Ability Score Improvemnt      | 70|
+| 17th  |   +6  | -                             | 80|
+| 18th  |   +6  | Fearless                      | 90|
+| 19th  |   +6  | Ability Score Improvemnt      |100|
+| 20th  |   +6  | Primal Champion               |100|
+
+### Class Features
+As an Oracle you gain the following class features
+
+#### Hit points
+::**Hit Dice:** 1d12 per oracle level
+::**Hit Points at 1st Level:** 12 + your Constitution modifier
+:: **Hit Points at Higher Level:** 1d12 (or 7) + your constituion modifier per oracle level after 1st
+
+#### Proficiancies
+:: **Armor:** light & medium armor, and shields
+:: **Weapons:** Simple Weapons
+:: **Tools:** none
+:: **Saving Throws:** Strength, Constitution
+:: **Skills:** Choose 2 from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.
+
+\column
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a greataxe or (b) any martial melee weapon
+* (a) two handaxes or (b) any simple weapon
+* An explorer's pack, and four javelins
+
+#### Multiclassing
+Ability Score Minimum: **Strength 13**
+
+When you gain a level in a class other than your first, you gain only some of that class's starting 
+###### proficiencies.
+:: **Armor:** shields
+:: **Weapons:** simple weapons, martial weapons
+
+### Unarmered Defence
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+
+### Rage Pool
+When you take and deal damage, you plunge deeper and deeper into a berserker rage. The deeper you decend into your rage, you find you push yourself harder. 
+
+You have a Rage Score that increases each time you take damage or deal damage. The amount your rage score increases is = to one half of the damage dealt. The more your rage builds the better your features become. If you fail to make an attack roll, Deal damage, or make a competitive athletics check, your current Rage Score is reduced by half. 
+
+The maximum your Rage score can reach is determined by your level and defined in the Maximum Rage Score column the The Berserker Table.
+
+### Rage Strikes
+|Rage Score|Extra damage| 
+|:--------:|:----------:|
+|    20    |     +2     |
+|    40    |     +3     |
+|    60    |     +4     |
+|    80    |     +5     |
+
+
+{width:150px,border-radius:10px,float:right}
+
+You  hit much harder than most with your attacks. 
+All your strength based damage rolls deal an extra 1 point of damage. This damage increases as your Rage Score increases.
+
+### Reckless Attack
+Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+
+\page
+
+### Danger Sense
+At 2nd level, once your **Rage Score reaches 5**, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated. 
+
+
+### Resistance
+At 3rd level, once your **Rage Score reaches 10**, you gain resistance from slashing, piercing, and bludgeoning damage
+
+### Berserker Rage Path
+At 3rd level, you choose a path that shapes the nature of your rage from the list of available paths. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+
+### Ability Score Improvement
+When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+### Multi-Attack
+When you take the attack action, you may attack twice times instead of once.
+
+### Fast Movement
+At 7th level, your movement increases by 10 feet. once your **Rage Score reaches 30** it increases by an additional 10 feet.
+
+### Relentless Rage
+At 9th level, when you are reduced below 1 hp, you can fall to 1 HP instead and any extra damage reduces your Rage score. While at 1 HP your rage score cannot increase by taking damage and you cannot benifit from resistances
+
+Any damage you take is removed from your Rage Score instead of your HP. If your Rage Score drops to 0 you fall unconcious.
+
+### Deep Rage
+At 11th level, once your **Rage Score reaches 50**, your multi-attack improves. You can make 3 attacks instead of 2 when taking the attack action
+
+### Brave
+At 13 level, you have advantage on all saves against Fear effects. 
+
+\column
+
+### Regeneration
+At 15th level, you regain 1 hp on every initiative count of 10 if you are below half health. Once your **Rage Score reaches 70** this regeneration increases to 2.
+
+### Fearless
+At 18th level, once your **Rage Score reaches 90** you become iummune to fear effects.
+
+### Berserker
+At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4, and once your **Rage Score reaches 100** athletic competitions do not need to consider relative sizes.
+
+### Rage Chart*
+|Rage Score|Extra damage|Rage Benefit|
+|:--------:|:----------:|:-:|
+|     5    |      -     | Danger Sense|
+|    10    |      -     | Resistance  |
+|    20    |     +2     |             |
+|    30    |      -     |Even Faster Movement|
+|    40    |     +3     | |
+|    50    |      -     |Extra multi attack|
+|    60    |     +4     | |
+|    70    |      -     |Better Regeneration|
+|    80    |     +5     | |
+|    90    |      -     |Immune to Fear |
+|   100    |      -     | Athletic contest<br>|
+| | | against larger foes ^|
+
+## Subclass Blueprint
+
+### level 3
+(1) defining sublcass feature <br>
+(2) rage 10 benifit
+
+### level 6
+(1) expanded core feature
+
+### level 10
+(2) rage 40 feature
+
+### level 14
+(1) defining final feature<br>
+(2) rage 60 feature
+
+\page
+
