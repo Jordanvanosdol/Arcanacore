@@ -1,0 +1,183 @@
+# Martial Artist
+Martial Artist are the fast and rapid striking bare fist fighters. They've learned how to utilize fighting stances and to harness an inner power they call Ki, allowing them to perform feats that seem super humun.  
+
+## The Martial Artist 
+
+|       | Prof. |                                |Martial| Ki |
+| Level | Bonus | Features                       | Arts  | Points|
+|:-----:|:-----:|:------------------------------:|:-:|:-:|
+| 1st   |   +2  |Martial Arts, Quick Recovery<br>| d4| - |
+|       |       |     Unarmered Defence         ^|   |   |
+|       |       |                                |   |   | 
+| 2nd   |   +2  | Stances, Ki                    | d4|  2|
+| 3rd   |   +2  | Martial Tradition              | d4|  3|
+| 4th   |   +2  | Ability Score Improvemnt       | d4|  4|
+| 5th   |   +3  | Extra Atack, Slow Fall         | d6|  5|
+| 6th   |   +3  | Tradition Feature              | d6|  6|
+| 7th   |   +3  | Evasion,Stillness of Mind      | d6|  7|
+| 8th   |   +3  | Ability Score Improvemnt       | d6|  8|
+| 9th   |   +4  | Verticle Movement              | d8|  9|
+| 10th  |   +4  | Purity of Body                 | d8| 10|
+| 11th  |   +4  | Tradition Feature              | d8| 11|
+| 12th  |   +4  | Ability Score Improvemnt       | d8| 12|
+| 13th  |   +5  | Tongue of the Sun and Moon     |d10| 13|
+| 14th  |   +5  | Diamond Soul                   |d10| 14|
+| 15th  |   +5  | Timeless Body                  |d10| 15|
+| 16th  |   +5  | Ability Score Improvemnt       |d10| 16|
+| 17th  |   +6  | Tradition Feature              |d12| 17|
+| 18th  |   +6  | Empty Body                     |d12| 18|
+| 19th  |   +6  | Ability Score Improvemnt       |d12| 19|
+| 20th  |   +6  | Perfect Self                   |d12| 20|
+
+### Class Features
+As an Oracle you gain the following class features
+
+#### Hit points
+::**Hit Dice:** 1d8 per Martial Artists level
+::**Hit Points at 1st Level:** 8 + your Constitution modifier
+:: **Hit Points at Higher Level:** 1d8 (or 5) + your constituion modifier per Martial Artist level after 1st
+
+#### Proficiancies
+:: **Armor:** none
+:: **Weapons:** Simple Weapons, Shortswords
+:: **Tools:** none
+:: **Saving Throws:** Strength, Dexterity
+:: **Skills:** Choose 2 from Acrobatics, Athletics, History, Insight, Religion, and Stealth.
+
+\column
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a shortsword or (b) any simple weapon
+* (a) a dungeoneer's pack or (b) an explorer's pack
+* 10 darts
+
+Alternatively, you may start with 5d4 gp to buy your own equipment.
+
+#### Multiclassing
+Ability Score Minimum: **Dexterity 13**
+
+When you gain a level in a class other than your first, you gain only some of that class's starting 
+###### proficiencies.
+:: **Weapons:** simple weapons, shortswords
+
+### Martial Arts.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
+
+* Your attack action only has an initiative impact of 15
+* When you use your attack action you can make one additional unarmed strike
+* You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+* You can roll a d4 in place of the normal damage of your unarmed strikes. this damage die increases as you gain levels as shown in the Martial Arts column of the Martial Artitst table
+
+### Quick Recovery
+You are extreamly proficiant at recovering from your actions and movemnts. Every turn you may reduce your Initiative Impact calculated for the next turn by your <br>1 + 1/4 of your Martial Artist Level
+
+### Unarmered Defence
+While you are not wearing any armor or holding a shield, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier.
+
+
+\page
+
+### Ki
+Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your martial arts level determines the number of points you have, as shown in the Ki Points column of the Martial Artist table. All spent Ki points are recovered at the end of a short rest
+
+You can spend these points to fuel various ki features. You start knowing two such features: **Patient Defense** and **Step of the Wind**. You learn more ki features as you gain levels in this class.
+
+* **Patient Defense**. You can spend 1 ki point to take the Dodge action as a bonus action on your turn.<br><br>
+* **Step of the Wind**. You can spend 1 ki point to take the *Disengage* or *Dash* action and your jump distance is doubled for the turn.<br><br>
+
+* **Change Stance** When you land an unarmed strike or an attack with a monk weapon, you may choose to spend a ki point to change to a different monk stance you know.
+
+{{note
+##### Ki Save
+Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
+
+Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Additionally every Ki point you use you increase your initiative impact by 2
+}}
+
+### Stances
+Choose two stances from the "Monk Stances" list. you may assume either stance when you roll for initiative. Your subclass grants you an additional stance at level 6 and you can make another choice at level 10
+
+### Martial Tradition
+When you reach 3rd level, you commit yourself to a monastic tradition, chosen from the list of available traditions. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
+
+### Ability Score Improvment
+When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+### Multi-Attack
+At 5th  level, When you take the attack action, you may attack twice times instead of once.
+\column
+
+### Slow Fall
+Beginning at 5th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+
+### Evasion
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+### Stillness of Mind
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened. This action has an initiative impact of 5
+
+### Verticle Movment
+At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+
+### Purity of Body
+At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
+
+### Tongue of the Sun and Moon
+Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+
+### Diamond Soul
+Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
+
+Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
+
+### Timeless Body
+At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+
+### Empty Body
+Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
+
+Additionally, you can spend 8 ki points to cast the astral projection spell, without needing material components. When you do so, you can't take any other creatures with you.
+
+\page
+
+### Perfect Self
+At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
+
+## Martial Art Stances
+
+#### Focus Stance
+The critical hit range of your unamred strikes and monk weapons expands by one
+
+#### Power Stance
+Once per turn when you hit a creature with an unarmed strike you can force that target to make a Constitution Saving throw. On a fail the target is stunned
+
+#### Protective Stance
+When someone enters your reach you can make an unarmed strike against the target
+
+#### Maneuvering Stance
+Once per turn when you hit a creature with an unarmed strike you can force that target to make a Strength Saving throw. On a failure, you can move the target 5 feet in a direction of your choice. A creature 1 size larger has advantage on the save. You cannot maneuver a creature 2 sizes larger than you
+
+#### Mobile Stance
+While in a Mobile Stance, you gain an additional 15 feet of movement
+
+\column
+
+## Subclass Blueprint
+
+### level 3
+
+(1) defining sublcass feature (uses ki)<br>
+
+### level 6
+(1) defining subclass stance
+
+### level 10
+(2) defining feature
+
+### level 14
+(1) defining feature
