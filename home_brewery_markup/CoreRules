@@ -41,7 +41,7 @@ This reflect spells that have a rather quick casting time, but impart a taxing e
 Spell casting time refers to the delay between starting the casting spell and how long before the spell effect activates. The casting time should always be declared in the spell description. From the moment a spell casting begins until the spell effect maniftests, your turn is effectivly on pause, and resumes when the spell manifests.
 
 #### Action Interupt
-Action Interupts are actions that you can take out of your turn. Most define a trigger condition and require somthing called an initiative impact. if an action interupt has an action interupt of 10 and your next turn is on an intitiative count of 90, this action will push your next turn to an initiative count of 100.
+Action Interupts are actions that you can take out of your turn. Most define a trigger condition and require somthing called an initiative impact. If an action interupt has an initiative interupt of 10 and your next turn is on an intitiative count of 90, this action will push your next turn to an initiative count of 100.
 
 ## General Combat Actions
 
