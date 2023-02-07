@@ -1,0 +1,206 @@
+# Knight
+Knights are the champions of virtue and heroism. Their strength stems from the willingness to risk harm to themselves for a greater purpose or for the aid of others. Knights are often found aligning themselves to the principles or values upheald by dieties. 
+
+Knights dont necisarily need to be good warriors. Although rare, a knight can align to a darker pursuite. For these knights moral princple is not an obsticle for them, so long as they have a pursuite, principle, value, or goal they are willing to risk their own life for.
+
+## The Knight
+
+|       | Prof. |                         |Spell Slots per Spell Level|||||
+| Level | Bonus | Features                            |1st|2nd|3rd|4th|5th|
+|:-----:|:-----:|:-----------------------------------:|:-:|:-:|:-:|:-:|:-:|
+|1st	  |+2|	Divine Sense,Lay on Hands	              | —	| —	| —	| — | —
+|2nd	  |+2|	Divine Smite,Fighting Style,            | 2	| —	| —	| — | —
+|       |  |        Spellcasting                     ^|   |   |   |   |  
+|       |  |                                          |   |   |   |   |  
+|3rd	  |+2|	Divine Health,Sacred Oath	              | 3	| —	| —	| — | —
+|4th	  |+2|	Ability Score Improvement	              | 3	| —	| —	| — |	—
+|5th	  |+3|	Extra Attack	                          | 4	| 2	| —	| — |	—
+|6th	  |+3|	Aura of Protection	                    | 4	| 2	| —	| — |	—
+|7th	  |+3|	Sacred Oath feature	                    | 4	| 3	| —	| — |	—
+|8th	  |+3|	Ability Score Improvement	              | 4	| 3	| —	| — |	—
+|9th	  |+4|	—	                                      | 4	| 3	| 2	| — |	—
+|10th	  |+4|	Sacred Oath feature	                    | 4	| 3	| 2	| — | —
+|11th	  |+4|	Spell Combat                            | 4	| 3	| 3	| — | —
+|12th	  |+4|	Ability Score Improvement	              | 4	| 3	| 3	| — | —
+|13th	  |+5|	Aura of Purpose                         | 4	| 3	| 3	| 1 | —
+|14th	  |+5|	Cleansing Touch	                        | 4	| 3	| 3	| 1 | —
+|15th	  |+5|	Sacred Oath feature	                    | 4	| 3	| 3	| 2 | —
+|16th	  |+5|	Ability Score Improvement	              | 4	| 3	| 3	| 2 | —
+|17th	  |+6|	—	                                      | 4	| 3	| 3 | 3 | 1
+|18th	  |+6|	Aura improvements	                      | 4	| 3	| 3	| 3 | 1
+|19th	  |+6|	Ability Score Improvement	              | 4	| 3	| 3	| 3 | 2
+|20th	  |+6|	Oath Champion     	                    | 4	| 3	| 3	| 3 | 2
+
+### Class Features
+As an Oracle you gain the following class features
+
+#### Hit points
+::**Hit Dice:** 1d10 per Knight level
+::**Hit Points at 1st Level:** 10 + your Constitution modifier
+:: **Hit Points at Higher Level:** 1d10 (or 6) + your constituion modifier per Knight level after 1st
+
+#### Proficiancies
+:: **Armor:** light armor, medium armor, heavy armor, shields
+:: **Weapons:** simple weapons, martial weapons
+:: **Tools:** none
+:: **Saving Throws:** Wisdom, Charisma
+:: **Skills:** Choose 2 from Acrobatics, Athletics, History, Insight, Religion, and Stealth.
+
+\column
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a martial weapon and a shield or (b) two martial weapons
+* (a) five javelins or (b) any simple melee weapon
+* (a) a priest's pack or (b) an explorer's pack
+* Chain mail and a holy symbol
+
+Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+
+#### Multiclassing
+Ability Score Minimum: **Strength 13 -or- Charisma 13**
+
+When you gain a level in a class other than your first, you gain only some of that class's starting 
+###### proficiencies.
+:: **Armor**: light, medium, and heavy armor, shields
+:: **Weapons**: simple & martial melee weapons, thrown weapons
+
+### Divine Sense
+*1st level Knight feature*
+
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+
+You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+
+### Lay on Hands
+*1st level Knight feature*
+
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your knight level × 5.
+
+As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+
+Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
+
+This feature has no effect on constructs.
+
+\page
+
+### Divine Smite
+*2nd level Knight feature*<br>
+**Using smites:**
+ 
+At second level you have a maximum number Divine Smites = to your proficiancy bonus. When you hit a creature with a melee attack you can expend any number of your smites to deal an extra 1d6 radiant damage per smite used. If you target a fiend or undead, you deal 1d6 extra damage regardless of the number of smites used, provided you use at least one.<BR>
+**Regaining smites:**
+
+You regain all expended used of your Divine Smites at the end of a long rest. In addition, every time you land a critical hit, using a weapon in which you have proficiancy, you regain 1 smite which cannot be used on the same critical hit.
+
+Your Oath will also provide you with ways opf regaining your smites
+
+### Fighting Style
+*2nd level Knight feature*
+
+Choose one fighting style from the fighter's fighting style list.
+
+### Spellcasting
+*2nd level Knight feature*
+
+By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. 
+
+###### Preparing and Casting Spells
+
+The Knight table shows how many spell slots you have to cast your knight spells. To cast one of your knight spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of knight spells that are available for you to cast, choosing from the knight spell list. When you do so, choose a **number of knight spells** equal to your **Charisma modifier + half your knight level**, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+You can change your list of prepared spells when you finish a long rest.
+
+You can use a holy symbol as a spellcasting focus for your knight spells.
+
+
+{{note
+##### Spellcasting Ability
+
+Charisma is your spellcasting ability for your knight spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a knight spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+Spellcasting Focus
+}}
+\column
+
+### Knightly Oath
+*3rd level Knight feature*
+
+When you reach 3rd level, you swear the oath that binds you as a knight forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.
+
+Your choice grants you features at **3rd** level and again at **7th**, **10th**, and **15th** level. Those features include oath spells and the Channel Divinity feature.
+
+##### Options:
+<u>The Watchers</u>, <u>Redemption</u>, <u>Oathbreaker</u>, <u>Glory</u>, <u>Devotion</u>, <u>The Crown</u>, <u>Conquest</u>, <u>The Ancients</u>
+
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th levels, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+### Multi-Attack
+*5th level Knight feature*
+
+At 5th  level, When you take the attack action, you may attack twice instead of once. additionally your initiative impact for taking the attack action is reduced from 20 to 18.
+
+### Aura of Protection
+*6th level Knight feature*
+
+Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, and you are within 10 initiative counts of your next turn, you may use your reaction to grant a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). 
+
+You can grant this bonus to any number of creatures in range for an initiative impact of 2 per creature chosen to benifit from this feature. You must be conscious to grant this bonus.
+
+
+
+### Spell Combat
+*11th level Knight feature*
+
+At 11th level when you take the attack action, you can replace one of your attack rolls with a spell that has an instant casting time and an initiative impact of no more than 10. You do not suffer additional initiative impact from casting this spell.
+
+
+#### Aura of Purpose
+*13th level Knight feature*
+
+On your turn you can use your action to allow any creatures of your choice within 10 feet of your to remake one save against a fear or charm effect for an initiative impact of 2 per creature benifiting from this feature
+
+\page
+
+### Cleansing Touch
+*14th level Knight feature*
+
+Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
+
+#### Aura improvements
+*18th level Knight feature*
+
+At 18th level, the ranges of your Aura of Protection and your Aura of Purpose increase to 30 feet. additionally their respective initiative impacts for both features are reduced from 2 to 1 per creature benifiting from either feature.
+
+### Oath Champion
+*20th level Knight feature*
+
+your divine smites change from d6s to d12s
+
+
+## Subclass Blueprint
+
+### level 3
+
+(1) Defining Oath Feature<br>
+(2) extra means of regaining smites
+
+### level 6
+(1) Oath Feature
+
+### level 10
+(2) Oath Feature
+
+### level 14
+(1) Oath feature

@@ -68,7 +68,7 @@ On your turn when you cast a spell you have access to. Pay attention to the spel
 Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, and a Spell Recovery time which defines the initiative impact after casting the spell.
 
 ##### Dash 
-*initiative impact of 10*
+*initiative impact of 12*
 
 When you take the Dash action you move up to the full movement speed of any movement available to you.
 
@@ -80,7 +80,7 @@ When you take the Dash action you move up to the full movement speed of any move
 On your turn you can take the Disengage action. When you take this action you can move without provoking opertunity attacks
 
 ##### Dodge
-*initiative impact of 8*
+*initiative impact of 10*
 
 When you take the dodge action, you force any creature that makes an attack against you at disadvantage.
 
@@ -91,7 +91,7 @@ When you take the dodge action, you force any creature that makes an attack agai
 You can assit in a skill check granting it advantage on the roll if you are within 5 feet of it. You can alternatively assist in the attack roll of another creature creature granting it advantage on the first attack roll it makes against a creature within 5 feet of you.
 
 ##### Hide
-*initiative impact of 8*
+*initiative impact of 10*
 
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter. THe Hide action has an
 
@@ -103,7 +103,7 @@ You can use your turn to ready an action. When you do so, you define a specific 
 After you take your readied action, apply the initiative impact as though you just took a full turn in the initiative progression.
 
 ##### Search
-*initiative impact of 12*
+*initiative impact of 10*
 
 When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
 
