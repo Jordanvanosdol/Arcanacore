@@ -2,9 +2,10 @@
 Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
 
 ### Arcanacore combat System.
-The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count starting at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete.
+The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count starting at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete. Any creatures that have their turn on an initiative count must resolve their turn before moving on and determining their next turn. 
+If two creatures have the same initiative for a turn, they roll to determin who goes first. If no creature has a turn on the next initiative count, the encounter just continues to count up until there is a turn that needs taking.
 
-For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 30, about one minute of real time have passed.
+For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 300, about one minute of real time have passed.
 
 ### Action Window
 On each creature's turn, it has an Action Window. On it's turn, it can perform any number of actions into this action window as long as the total sum of Actions Cost is less then 30.
