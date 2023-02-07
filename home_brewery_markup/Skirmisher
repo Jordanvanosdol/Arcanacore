@@ -8,25 +8,25 @@ Regardless of their acuity of the land, they're swift fighters, able to strike w
 | Level | Bonus | Features                            |1st|2nd|3rd|4th|5th|
 |:-----:|:-----:|:-----------------------------------:|:-:|:-:|:-:|:-:|:-:|
 |1st	  |+2|	Eye for Trouble, Fighting Style         | —	| —	| —	| — | —
-|2nd	  |+2|	Spellcasting, Terrain Tactician         | 2	| —	| —	| — | —
+|2nd	  |+2|	Spellcasting, Favored Terrain           | 2	| —	| —	| — | —
 |3rd	  |+2|	Expertise, Skirmisher Archetype, Quick  | 3	| —	| —	| — | —
 |       |  |        Switch                           ^|   |   |   |   | 
+|       |  |                                          |   |   |   |   |
 |4th	  |+2|	Ability Score Improvement	              | 3	| —	| —	| — |	—
 |5th	  |+3|	Extra Attack	                          | 4	| 2	| —	| — |	—
-|6th	  |+3|	Terrain Tactician Improvement, Eye for  | 4	| 2	| —	| — |	—
-|       |  |        Trouble Improvement              ^|   |   |   |   | 
+|6th	  |+3|	Favored Terrain Improvement,            | 4	| 2	| —	| — |	—
+|       |  |  Eye for Trouble Improvement            ^|   |   |   |   | 
 |7th	  |+3|	Skirmisher Archetype Feature            | 4	| 3	| —	| — |	—
 |8th	  |+3|	Ability Score Improvement, Steady Breath| 4	| 3	| —	| — |	—
-|9th	  |+4|	—	                                      | 4	| 3	| 2	| — |	—
+|9th	  |+4|	-	                                      | 4	| 3	| 2	| — |	—
 |10th	  |+4|	Skirmisher Archetype Feature            | 4	| 3	| 2	| — | —
-|11th	  |+4|	Spell Combat, Terrain Tactician         | 4	| 3	| 3	| — | —
-|       |  |        Improvement                      ^|   |   |   |   | 
+|11th	  |+4|	Spell Combat                            | 4	| 3	| 3	| — | —
 |12th	  |+4|	Ability Score Improvement	              | 4	| 3	| 3	| — | —
 |13th	  |+5|	-                                       | 4	| 3	| 3	| 1 | —
 |14th	  |+5|	Peerless Beholding                      | 4	| 3	| 3	| 1 | —
 |15th	  |+5|	Skirmisher Archetype Feature            | 4	| 3	| 3	| 2 | —
 |16th	  |+5|	Ability Score Improvement	              | 4	| 3	| 3	| 2 | —
-|17th	  |+6|	—	                                      | 4	| 3	| 3 | 3 | 1
+|17th	  |+6|	-	                                      | 4	| 3	| 3 | 3 | 1
 |18th	  |+6|	Jack of All Blades                      | 4	| 3	| 3	| 3 | 1
 |19th	  |+6|	Ability Score Improvement	              | 4	| 3	| 3	| 3 | 2
 |20th	  |+6|	Split-Second Reactions                  | 4	| 3	| 3	| 3 | 2
@@ -121,309 +121,42 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ##### Watchful Combatant
 You have a +2 to your Armor Class, Attack, and Damage rolls against a creature that you've successfully Observed.
 
-<img 
-  src='https://i.pinimg.com/564x/47/f0/82/47f0824b2a4e7db7241a4d64484e3f09.jpg' 
-  style='position:absolute;top:300px;left:350px;width:1016px;mix-blend-mode:multiply' />
-
-<img 
-  src='https://i.imgur.com/NwecXt3.png
-' 
-  style='position:absolute;top:-260px;left:-258px;width:1200px' />
-  
-
-<img 
-  src='https://i.imgur.com/NwecXt3.png
-' 
-  style='position:absolute;top:-700px;right:-400px;width:1200px
-  transform: 
-     rotate(270deg);' />
-		 
-<div style='margin-top:600px'></div>
-		 
-{{descriptive
-##### Credit: Yuzuo Dong
-
-https://www.artstation.com/artwork/3vZv2
-}}
 
 
-\page
-### Terrain Tactician
+### Favored Terrain
 *2nd level Skirmisher feature*
 
-Your skill on the battlefield is unmatched, regardless of which battlefield you find yourself on. You gain passive combat benefits based on the terrain you're standing in, as detailed below. If a locale is very similar but not explicitly described as something from the table, you gain those respective bonuses.
+Choose a type of Favored Terrain from the following list. <u>Urban</u>, <u>Grass</u> <u>fields</u>, <u>Forest</u>, <u>Mountains</u>, <u>Arid</u>, <u>Coast</u>, <u>Arctic</u>, <u>Swamp</u>,  <u>Underway</u>, <u>Volcanic</u>
 
-You gain additional Provincial Prowess bonuses at 6th and 11th level.
+While in a favored Terrain, you have a -1 to your initiative impact and a +1 to all attack rolls. In addition each general terrain type grants a bonus perk. This Bonus Perk gets an additional perk at 6th level.
+
+You can choose an additional Favored Terrain at 6th and 11th level.
 
 {{classTable,frame
-##### Provincial Prowess Bonuses by Terrain:
-| Terrain Type | Bonus |
+##### Favored Terrain:
+| Terrain | Bonus Perk|
 |:-----:|:-----------------:|
-| City / Kingdom / Town | You gain a climbing speed equal to your movement speed to climb buildings. When you take the Hide action while using rooftops as cover, you have a +5 to your Stealth roll.
-|  Fields/ Grasslands/ Plains  | Your movement speed increases by 10 ft. 
-| Forest / Grove/ Woods | You gain a Climbing speed equal to your movement speed to climb trees and nonmagical Difficult, Loose, and Hazardous terrain doesn't affect you.
-|  Crags/ Hills/ Mountains  | You gain a Climbing speed equal to your movement speed to climb trees and nonmagical Difficult, Loose, and Hazardous terrain doesn't affect you. 
-|  Arid/ Desert/ Dunes  | Loose terrain doesn't affect you and any rolls you make in order to resist being knocked prone are made at advantage.
-|  Coast/ Ocean / Sea  | You have a swimming speed equal to your walking speed. 
-|  Arctic/ Glacial/ Icy  | Your movement speed cannot be reduced as a result of the weather or nonmagical effects. 
-| Bog/ Poisonous/ Swamp| Any rolls you make to resist effects that poison you are made at advantage, and you have resistance to Poison damage.
-| Dark / Dungeon / Void | You gain Blindsight out to a range of 30 ft. If you already have Blindsight out to any range, this range increases to 60 ft. unless your Blindsight already exceeds this amount.
-| Fire / Lava / Volcanic | Any extreme weather effects that would normally damage do not. You have resistance to Fire damage.
-| Other | Talk with your DM to determine a minor feature that fits the terrain.
+| Urban | You subtract an 1 from your innititiative impact each turn
+|  Grass fields  | Your movement speed increases by 5 additional ft. 
+| Forest | You are immune to the effects of all types of Difficult terrain.
+|  Mountains  | You gain a Climbing speed equal to your movement speed nonmagical and Difficult terrain doesn't affect you. 
+|  Arid   | Loose terrain doesn't affect you and any rolls you make in order to resist being knocked prone are made at advantage.
+|  Coast  | You have a swimming speed equal to your walking speed. 
+|  Arctic   | frost resistance
+| Swamp| poison resistance, and advantage against saves that cause poison
+| Underway | You gain an extra 10 feet of blind sight. If you have none you have 10 feet of blind sight
+| Volcanic | fire resistance
+| Other | A good DM talking to
 }}
 
+\page
 ### Spellcasting
 *2nd level Skirmisher feature*
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See Spells Rules for the general rules of spellcasting and the Spells Listing for the Skirmisher spell list.
-\column
-<img 
-  src='https://i.imgur.com/SOlk3F3.png' 
-  style='position:absolute; top:-20px; right:-80px; width:690px;mix-blend-mode:multiply' />
-  
-<img
-   src='http://i.imgur.com/TN3SKuL.png'
-   style='position:absolute;
-  bottom:990px;
-  right:350px;
-  width:250px;
-  transform:
-    rotate(0deg);
-  filter:
-  opacity(70%)
-   '
-/>
 
-<img
-   src='http://i.imgur.com/TN3SKuL.png'
-   style='position:absolute;
-  bottom:650px;
-  right:300px;
-  width:250px;
-  transform:
-    rotate(0deg);
-  filter:
-  opacity(70%)
-   '
-/>
-<img 
-  src='http://i.imgur.com/09aJ4Uh.png' 
-  style='position:absolute;top:355px;right:25px;width:200px;
-  transform: 
-     rotate(180deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
-     
-<img 
-  src='http://i.imgur.com/NQssW9u.png' 
-  style='position:absolute;top:220px;left:450px;width:200px;
-  transform: 
-     rotate(180deg);
-  filter:
-     opacity(80%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
- 
- <img 
-  src='http://i.imgur.com/NQssW9u.png' 
-  style='position:absolute;top:20px;left:290px;width:200px;
-  transform: 
-     rotate(180deg);
-  filter:
-     opacity(80%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
 
-<img 
-  src='http://i.imgur.com/NQssW9u.png' 
-  style='position:absolute;top:100px;left:290px;width:200px;
-  transform: 
-     rotate(180deg);
-  filter:
-     opacity(80%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
 
-<img 
-  src='http://i.imgur.com/TN3SKuL.png' 
-  style='position:absolute;top:248px;left:404px;width:200px;
-  transform: 
-     rotate(-15deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
-
-<img 
-  src='http://i.imgur.com/TN3SKuL.png' 
-  style='position:absolute;top:148px;left:254px;width:200px;
-  transform: 
-     rotate(-15deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
- <img 
-  src='http://i.imgur.com/TN3SKuL.png' 
-  style='position:absolute;top:248px;left:704px;width:200px;
-  transform: 
-     rotate(-15deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
-<img 
-  src='http://i.imgur.com/TN3SKuL.png' 
-  style='position:absolute;top:254px;left:290px;width:200px;
-  transform: 
-     rotate(130deg);
-  filter:
-     opacity(70%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
-  
-
-<img 
-  src='http://i.imgur.com/qLh2P0C.png' 
-  style='position:absolute;top:44px;right:370px;width:240px;
-  transform: 
-     rotate(-65deg);
-  filter:
-     opacity(90%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'/>
-
-<!-- Circle Blends, -->
-
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:-50px;
-   right:390px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:px;
-   right:390px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:200px;
-   right:400px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:280px;
-   right:40px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:280px;
-   right:190px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:280px;
-   right:-52px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-
-<img
-   src='http://i.imgur.com/IQENPZX.png'
-   style='position:absolute;
-   top:280px;
-   right:300px;
-  transform: 
-     rotate(100deg);
-  filter:
-     opacity(100%)
-     hue-rotate(0deg)
-     brightness(100%)
-     contrast(100%)
-     saturate(100%)'
-/>
-<div></div>
-
-<div style='margin-top:300px'></div>
-<div style='margin-top:300px'></div>
-
-{{descriptive
-##### Credit: Paizo, Graey Erb
-
-https://www.artstation.com/artwork/Zzxk8
-}}
 
 ###### Spells Known of 1st Level and Higher
 You know two 1st-level spells of your choice from the Skirmisher spell list.
@@ -431,8 +164,6 @@ You know two 1st-level spells of your choice from the Skirmisher spell list.
 The Spells Known column of the Skirmisher table shows when you learn more Skirmisher spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the Skirmisher spells you know and replace it with another spell from the Skirmisher spell list, which also must be of a level for which you have spell slots.
-
-<div style='margin-top:20px'></div>
 
 {{note
 ###### Spellcasting Ability
@@ -446,8 +177,6 @@ When casting spells, subtract 5 from the start-up and cool-down initiative impac
 }}
 
 
-\page
-
 ### Expertise
 *3rd level Skirmisher feature*
 
@@ -460,8 +189,7 @@ You can also speak, read, and write two additional languages of your choice.
 
 At 3rd level, you choose an archetype that you strive to emulate: the Hunter that is detailed at the end of the class description or one from another source. Your choice grants you features at 3rd level and again at **7th**, **11th**, and **15th** level.
 
-##### Options:
-<u>TBD</u>
+\column
 
 ### Quick Switch
 
@@ -484,38 +212,34 @@ If your DM allows the use of feats, you may instead take a feat.
 
 **At 15th level**, you can make 3 attacks on your turn at the cost of only 16 initiative impact when you take the attack action
 
-
-\column
-
 ### Eye for Trouble Improvement
 *6th level Skirmisher feature*
 
 When you use the Observe action against a creature with a Challenge Rating higher than your Skirmisher Level, treat your Skirmisher level as 2 levels higher. You automatically succeed on the Wisdom (Insight) check if your level exceeds the Challenge Rating of the target.
 
-### Terrain Tactician Improvement
+### Favored Terrain Improvement
 *6th level Skirmisher feature*
 
 Starting at 6th level, on top of any bonuses gained at 2nd level, additional combat benefits are gained based on the terrain you're standing in, as detailed below.
+
+\page
 
 {{classTable,frame
 ##### Provincial Prowess Bonuses by Terrain:
 | Terrain Type | Bonus |
 |:-----:|:-----------------:|
-| City / Kingdom / Town | You can choose to subtract 5 from your Initiative Impact at the end of your turns.
-|  Fields/ Grasslands/ Plains  | When you take the Hide action while using tall grass as cover, you have a +5 to your Stealth roll. 
-| Forest / Grove/ Woods | When you take the Hide action while using trees as cover, you have a +5 to Stealth roll. 
-|  Crags/ Hills/ Mountains  | Attack rolls made against creatures standing on nonmagical Difficult, Loose, and Hazardous terrain are made at advantage. 
-|  Arid/ Desert/ Dunes  | If a creature within 5 ft. of you attempts to knock you prone and is within 10 initiative of your next turn, you can use an Interrupt action to instead impose the effect on the creature. 
-|  Coast/ Ocean / Sea  | Your vision is not limited while attacking underwater and none of your weapon attacks suffer negative effects as a result of attacking underwater. 
-|  Arctic/ Glacial/ Icy  | When you take the Hide action when using snow or ice as cover, you have a +5 to your Stealth roll. 
-| Bog/ Poisonous/ Swamp| You have advantage on any rolls made to resist falling prone. You have Blindsight on any creatures within 30 ft. of you that are standing in water.
-| Dark / Dungeon / Void | Nonmagical OR Magical Hazardous terrain doesn't affect you.
-| Fire / Lava / Volcanic | Hazardous Terrain that isn't lava or a lava equivalent doesn't affect you.
-| Other | Talk with your DM to determine an intermediate feature that fits the terrain.
+| Urban | You subtract an additional 1 from your innititiative impact each turn
+|  GrassFields | Your movement speed increases by 5 additional ft.
+| Forest | When you take the Hide action while using trees as cover, you have a +5 to Stealth roll. 
+|  Mountains  | Attack rolls made against creatures standing on nonmagical Difficult, Loose, and Hazardous terrain are made at advantage. 
+|  Arid  | If a creature within 5 ft. of you fails to knock you prone you can use an Interrupt action to instead impose the effect on the creature, provided it no more than one size larger than you. 
+|  Coast  | Your vision is not limited while attacking underwater and none of your weapon attacks suffer negative effects as a result of attacking underwater. 
+|  Arctic | You ignore 5 points of cold damage
+| Swamp| You ignore 5 points of poison damage
+| Underway | you gain an additional 10 feet of blind sight
+| Volcanic | You ignore 5 points of fire damage
+| Other | A good DM talking to
 }}
-
-\page
-<div style='margin-top:40px'></div>
 
 ### Steady Breath
 *8th level Skirmisher feature*
@@ -524,45 +248,6 @@ Starting at 8th level, if you are within 20 initiative of your next turn, you ca
 
 In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.
 
-<div style='margin-top:120px'></div>
-
-{{descriptive
-##### Credit: aenaluck
-
-https://www.deviantart.com/aenaluck/art/concept-art-Carlnes-716998869
-}}
-
-\column
-
-### Terrain Tactician Improvement
-*11th level Skirmisher feature*
-
-Starting at 11th level, on top of any bonuses gained at 2nd and 6th level, additional combat benefits are gained based on the terrain you're standing in, as detailed below.
-
-{{classTable,frame
-##### Provincial Prowess Bonuses by Terrain:
-| Terrain Type | Bonus |
-|:-----:|:-----------------:|
-| City / Kingdom / Town | You automatically succeed on any Wisdom (Perception) rolls made to reveal unseen creatures, and your Passive Perception has a +10 for any creature attempting to Hide from your sight.
-|  Fields/ Grasslands/ Plains  | Once per turn, when you make an attack roll against a creature while hidden in tall grass, you can move up to 10 feet (if you have enough movement to do so) and choose to take the Hide action as a part of the Attack action without an addition to your Initiative Impact. 
-| Forest / Grove/ Woods | Once per turn, you can teleport to a tree within 30 ft. of you (initiative impact of 10). Doing so doesn't reveal your location to creatures that are unaware of your presence.
-|  Crags/ Hills/ Mountains  | You can walk up, down, and across vertical and upside down surfaces.
-|  Arid/ Desert/ Dunes  | Prone creatures on Loose terrain are always attacked at advantage as a result of the condition.
-|  Coast/ Ocean / Sea  | Any attack that hits a creature that cannot see you within Dim Light or Darkness as a result of lacking underwater visibility is a critical hit.
-|  Arctic/ Glacial/ Icy  | Any attack that hits a creature that is standing in Difficult terrain or has had their movement speed reduced is a critical hit.
-| Bog/ Poisonous/ Swamp| Your weapon attacks deal an additional 1d6 Poison damage. This damage does normal damage to creatures with Resistance to Poison damage and half damage to creatures that are immune to Poison damage.
-| Dark / Dungeon / Void | Attack rolls made against terrain automatically hit. If a creature you hit with a weapon attack is within 10 ft. of Hazardous terrain, you can subject them to a Strength Saving Throw equal to your Spell Save DC. On a failed save, the creature is pulled into Hazardous Terrain within range and suffers its effects as if it willingly entered it.
-| Fire / Lava / Volcanic | If a creature you hit with a weapon attack is within 10 ft. of Hazardous terrain, you can subject them to a Strength Saving Throw equal to your Spell Save DC. On a failed save, the creature is pulled into Hazardous Terrain within range and suffers its effects as if it willingly entered it.
-| Other | Talk with your DM to determine an advanced feature that fits the terrain.
-}}
-
-<img 
-  src='https://i.imgur.com/pFGtKAj.png'
-  style='position:absolute;top:475px;right:300px;width:700px;mix-blend-mode:multiply'/>
-	<div style='margin-top:800px'></div>
-
-\page
-	
 ### Spell Combat
 *11th level Skirmisher feature*
 
@@ -575,17 +260,17 @@ Beginning at 14th level, you are no longer limited by your Wisdom modifier when 
 
 Additionally, (something else goes here but it's getting late).
 
+\column
+
 ### Jack of All Blades
 *18th level Skirmisher feature*
 
-Starting at 18th level, if you hit with three seperate weapons in a single turn, the third hit is a critical hit.
+Starting at 18th level, if you hit with three seperate weapon attacks in a single turn, the third hit is a deals 1 extra dice of damage.
 
-### Split-Second Reactions
+### Split-Second Reactions(rework)
 *20th level Skirmisher feature*
 
 Starting at 20th level, whenever you take an Interrupt action, you can do so without the initiative count having to be within 10 of your next turn. Additionally, all Interrupt Actions don't increase your initiative impact.
-
-<div style='margin-top:50px'></div>
 
 ## Subclass Blueprint
 
@@ -601,20 +286,3 @@ Starting at 20th level, whenever you take an Interrupt action, you can do so wit
 
 ### level 14
 (1) Archetype feature
-
-<img 
-  src='https://i.imgur.com/3VOdxKe.png' 
-  style='position:absolute;top:00px;right:-220px;width:800px;mix-blend-mode:multiply'/>
-
-\column
-{{descriptive
-##### Credit: Alby (me)
-(no source link)
-}}
-
-
-<div style='margin-top:650px'></div>
-
-{{note
-"I put the stinky on 'em!" - Jake Urevius, decidedly *not* a Skirmisher
-}}
