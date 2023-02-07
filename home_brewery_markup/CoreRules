@@ -2,10 +2,11 @@
 Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
 
 ### Arcanacore combat System.
-The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count starting at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete. Any creatures that have their turn on an initiative count must resolve their turn before moving on and determining their next turn. 
-If two creatures have the same initiative for a turn, they roll to determin who goes first. If no creature has a turn on the next initiative count, the encounter just continues to count up until there is a turn that needs taking.
-
+The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count which starts at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete. 
 For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 300, about one minute of real time have passed.
+
+Any creatures that have their turn on an initiative count must resolve their turn before moving on and determining their next turn. If two creatures have the same initiative for a turn, they roll to determin who goes first. If no creature has a turn on the next initiative count, the encounter just continues to count up until there is a turn that needs taking.
+
 
 ### Action Window
 On each creature's turn, it has an Action Window. On it's turn, it can perform any number of actions into this action window as long as the total sum of Actions Cost is less then 30.
@@ -49,14 +50,14 @@ Action Interupts are actions that you can take out of your turn. Most define a t
 |:----------:|:-----------:|
 | Attack     |20
 | Cast Spell |10
-| Dash       |12
+| Dash       |14
 | Disengage  |10
 | Dodge      |10
 | Help       |10
 | Hide       |10
 | Ready      |special*
 | Search     |10
-| Use Object |4
+| Use Object |2-4
 
 {width:140px,border-radius:10px,float:right}
 
@@ -75,9 +76,9 @@ When you take the attack action, you make a melee weapon attack, a ranged weapon
 
 All spells have a base action cost minimum of 5. Most spells have an addtional cost and a recovery time, both of which should be included in the spell description.
 
-Only a spells basic action cost and additional cost need to fit into the your action window. The Spell recovery time does not need to fit into your action window.
+Only the base action cost for casting a spell and the and additional cost(defined in the spell) need to fit within your action window. The Spell recovery time does not need to fit into your action window.
 
-Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, and a Spell Recovery time which defines the initiative impact after casting the spell.
+Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, which defines the initiative impact after casting the spell.
 
 ##### Dash 
 *action cost of 12*
@@ -87,7 +88,7 @@ When you take the Dash action you move up to the full movement speed of any move
 ##### Disengage
 *action cost of 10*
 
-On your turn you can take the Disengage action. When you take this action you can move without provoking opertunity attacks
+On your turn you can take the Disengage action. When you take this action, you can move without provoking opportunity attacks.
 
 ##### Dodge
 *action cost of 10*
@@ -119,6 +120,6 @@ After you take your readied action, apply the initiative impact as though you ju
 When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
 
 ##### Use an Object
-*action cost of 4*
+*action cost of 2-4*
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
