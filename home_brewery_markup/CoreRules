@@ -1,113 +1,125 @@
-# Arcanacore *V0.02*
+# Arcanacore *V0.03*
 Welcome traveler from an antique land. Please sit and tell us of what you have seen. The unheard of monsters, who slither and bite. Tell us of the wondrous items and and artifacts you have found, their mysteries yet to be unlocked. Of the vexing vocations and surprising skills you have seen.
 
 ### Arcanacore combat System.
-The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count starting at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete.
+The Arcanacore combat system is completely based on an upward initiative system. Any given character or creature takes its turn on an initiative count which starts at 0 in the begininning of the encoutner, and continues to increase until the encounter is complete. 
+For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 300, about one minute of real time have passed.
 
-For realtime tracking purposes, one second takes approximately 5 counts of initiative. For perspective, once the encoutner reaches an initiative of 30, about one minute of real time have passed.
+Any creatures that have their turn on an initiative count must resolve their turn before moving on and determining their next turn. If two creatures have the same initiative for a turn, they roll to determin who goes first. If no creature has a turn on the next initiative count, the encounter just continues to count up until there is a turn that needs taking.
+
+
+### Action Window
+On each creature's turn, it has an Action Window. On it's turn, it can perform any number of actions into this action window as long as the total sum of Actions Cost is less then 30.
+
+All creatures have a base action point cost. Most humanoids have a base cost of 10 when they start their turn, leaving 20 points for actions on their turn.
 
 ### Taking your turn
-On your turn you concentrate on 3 main points. (1)movement your base movement as defiend by your race , class, other features. (2) Any action available to you such as casting a spell, making a melee attack, or interactin with an object. (3) traking their initiative impact accrued by their actions and features.
+On your turn you concentrate on 3 main points. 
+
+* **Movement:** Simply as part of taking your turn, you may move up to your max speed for any one movement speed you have for no action cost.
+* **Actions:** Any action available to you such as casting a spell, making a melee attack, or interaction with an object. You may perform multiple actions, but the total action cost of your choices may not exceed your action window.
+* **Recovery:** You determine when your next turn occurs. This is done by adding the total sum of the current turn's action points + the encoutner's current initiative.
 
 
-### Initiative Impacting Actions.
+### Initiative Impacting Choices.
 Nearly anything a character can do will cost initiative, or postpone their next until a specific initiative.
 
-#### Creature Base Initiative Impact
-When a creature's next turn is reached in the initiative, that creature's following innitiative is increased by a set ammount as described in a creature's statblock or character class description.
+#### Starting your turn
+When a creature's turn is reached in initiative, that creature automaticly adds their base creature action cost to their action window. 
 
-For example, most humanoids have an innitiatve impact of 10, however a wood-elf which, would be able to moved more quickly, may be only 8. Thus allowing the would elf to, over time act more frequently.
+For example, most humanoids have an innitiatve impact of 10, however a halfling which, would be able to moved more quickly, may be only 8. Thus allowing the halfling to, over time act more frequently.
 
-#### Action initiative cost
-Different actions accrue different levels of initiative impact. A basic Melee attack may have 20 initiative, whereas a smaller action such as an object interaction of pushing a button, may onyl cost two points.
+#### Action Point Cost
+Different actions demand defferent amounts of action cost. Taking the attack action, for example, has an action cost of 20 action points, whereas a smaller action such as an object interaction of pushing a button, may only have an action cost of 4.
 
 #### Spell Recovery time
-Spell recovery time reflects how much innitiative impact casting a spell adds. This should always be declared in the spell description.
+Some spells have a recovery time. This recovery time is added to your Recovery calculation for your next turn, but does not need to placed in your action window.
 
-\column
- 
+This reflect spells that have a rather quick casting time, but impart a taxing effect from casting from the spell.
 
 #### Spell casting time
-Spell casting time refers to the delay between starting the casting spell and how long before the spell effect activates. This should always be declared in the spell description. From the moment a spell casting begins until the spell effect maniftests, as determined by the spell casting time, a creature cannot take an action.
+Spell casting time refers to the delay between starting the casting spell and how long before the spell effect activates. The casting time should always be declared in the spell description. From the moment a spell casting begins until the spell effect maniftests, your turn is effectivly on pause, and resumes when the spell manifests.
 
-#### reaction
-Reactions are actions you can take before your next turn is reached in initiative. Taking a reaction requires you to be on an initiatve cout that is less the 10 away from your next turn. Additionally most reactions push your turn further out. 
-
-For example, if you qualify for making an opertunity attack on your currently on an initiative count of 65 and your next turn is on 70, you may make an opertunity attack and push your next turn to the 80 intiative count
+#### Action Interupt
+Action Interupts are actions that you can take out of your turn. Most define a trigger condition and require somthing called an initiative impact. If an action interupt has an initiative interupt of 10 and your next turn is on an intitiative count of 90, this action will push your next turn to an initiative count of 100.
 
 ## General Combat Actions
 
 
-|    Action  | Initiative Impact |
-|:----------:|:-----------------:|
+|    Action  | Action Cost |
+|:----------:|:-----------:|
 | Attack     |20
-| Cast Spell |special*
-| Dash       |10
+| Cast Spell |10
+| Dash       |14
 | Disengage  |10
-| Dodge      |8
+| Dodge      |10
 | Help       |10
-| Hide       |8
+| Hide       |10
 | Ready      |special*
-| Search     |12
-| Use Object |4
+| Search     |10
+| Use Object |2-4
 
-{width:150px,border-radius:10px,float:right}
+{width:140px,border-radius:10px,float:right}
 
 When you take your action on your turn, there are several general combat actions a creature or character can take in combat. The following general actions are available to all creatures: *<u>Attack</u>*, *<u>Cast a Spell</u>* *<u>Dash</u>*, *<u>Disengage</u>*, *<u>Dodge</u>*, *<u>Help</u>*, *<u>Hide</u>*, *<u>Ready</u>*, *<u>Search</u>*, *<u>Use an Object</u>*
 
+
+
+\page
 ##### Attack
-*initiative impact by 20*
+*action cost by 20*
 
 When you take the attack action, you make a melee weapon attack, a ranged weapon attack, or an unarmed strike
 
 ##### Cast a Spell
-*initiative impacts in the spell description*
+*action cost 5*
 
-On your turn when you cast a spell you have access to. Pay attention to the spell description and requirements  for the spell casting. 
+All spells have a base action cost minimum of 5. Most spells have an addtional cost and a recovery time, both of which should be included in the spell description.
 
-Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, and a Spell Recovery time which defines the initiative impact after casting the spell.
+Only the base action cost for casting a spell and the and additional cost(defined in the spell) need to fit within your action window. The Spell recovery time does not need to fit into your action window.
+
+Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, which defines the initiative impact after casting the spell.
 
 ##### Dash 
-*initiative impact of 12*
+*action cost of 14*
 
 When you take the Dash action you move up to the full movement speed of any movement available to you.
 
-\page
-
 ##### Disengage
-*initiative impact of 10*
+*action cost of 10*
 
-On your turn you can take the Disengage action. When you take this action you can move without provoking opertunity attacks
+On your turn you can take the Disengage action. When you take this action, you can move without provoking opportunity attacks.
 
 ##### Dodge
-*initiative impact of 10*
+*action cost of 10*
 
 When you take the dodge action, you force any creature that makes an attack against you at disadvantage.
 
 
 ##### Help
-*initiative impact of 10*
+*action cost of 10*
 
 You can assit in a skill check granting it advantage on the roll if you are within 5 feet of it. You can alternatively assist in the attack roll of another creature creature granting it advantage on the first attack roll it makes against a creature within 5 feet of you.
 
 ##### Hide
-*initiative impact of 10*
+*action cost of 10*
 
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter. THe Hide action has an
+\column
 
 ##### Ready
-*special initiative impact*
+*special action cost*
 
-You can use your turn to ready an action. When you do so, you define a specific trigger to for an action of your choice "<u>*If an enemy gets within five feat of a friendly creature, I'll use my attack action to attack it.*</u>"
+You can use your turn to ready an action. When you do so, you define a specific trigger for an action of your choice "<u>*If an enemy gets within five feet of a friendly creature, I'll use my attack action to attack it.* When you ready an action you calculate your next turn based on the action cost of the readied action. actually taking the readied action has no additional initiative impact to your next turn.</u>"
 
 After you take your readied action, apply the initiative impact as though you just took a full turn in the initiative progression.
 
 ##### Search
-*initiative impact of 10*
+*action cost of 10*
 
 When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
 
 ##### Use an Object
-*initiative impact of 4*
+*action cost of 2-4*
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
