@@ -81,7 +81,7 @@ Only the base action cost for casting a spell and the and additional cost(define
 Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, which defines the initiative impact after casting the spell.
 
 ##### Dash 
-*action cost of 12*
+*action cost of 14*
 
 When you take the Dash action you move up to the full movement speed of any movement available to you.
 
