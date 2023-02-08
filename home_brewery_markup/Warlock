@@ -1,0 +1,533 @@
+# Warlock
+Warlocks are a bit of a mystery as far as magic users are concerned. The Magic they use is channeled from some other far greater and far more powerful being they refer to as their Patron 
+{width:185px}
+
+A single Patron is likely to have many followers and they are not allways inclined to be benevolent beings. In truth, they tend to reflect all forms of alignment. Because of this, many warlocks tend to be very reclusive, and avoid the ever prying eyes of society.
+{width:185px}
+
+<br><br>
+
+## Class Features
+As an Warlock you gain the following class features
+
+#### Hit points
+::**Hit Dice:** 1d8 per Warlock level
+::**Hit Points at 1st Level:** 8 + your Constitution modifier
+:: **Hit Points at Higher Level:** 1d8 (or 5) + your constituion modifier per Warlock level after 1st
+
+#### Proficiancies
+:: **Armor:** light armor, medium armor, heavy armor, shields
+:: **Weapons:** simple weapons, martial weapons
+:: **Tools:** none
+:: **Saving Throws:** Wisdom, Inteligence
+:: **Skills:** Choose 2 from Acrobatics, Athletics, History, Insight, Religion, and Stealth.
+
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a martial weapon and a shield or (b) two martial weapons
+* (a) five javelins or (b) any simple melee weapon
+* (a) a priest's pack or (b) an explorer's pack
+* Chain mail and a holy symbol
+
+Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+
+
+\column
+
+|       | Prof. |                     |Cantr.|Spells|Spell|Slot|Invocations|
+| Level | Bonus | Features             |Known|Known|Slots|Level|Known|
+|:-----:|:-----:|:--------------------------:|:-:|:-:|:-:|:---:|:-:
+|1st	  |+2|	Pact Magic, Otherworldly Patron| 2 | 2 | 1 | 1st | -
+|2nd	  |+2|	Eldritch Invocations           | 2 | 3 | 2 | 1st | 2
+|3rd	  |+2|	Pact Boon                      | 2 | 4 | 2 | 2nd | 2
+|5th	  |+3|	-           	                 | 3 | 5 | 2 | 2nd | 2
+|5th	  |+3|	Ability Score Improvement      | 3 | 6 | 2 | 3rd | 3
+|6th	  |+3|	Otherworldly Patron feature    | 3 | 7 | 2 | 3rd | 3
+|7th	  |+3|	-                 	           | 3 | 8 | 2 | 4th | 4
+|8th	  |+3|	Ability Score Improvement	     | 3 | 9 | 2 | 4th | 4
+|9th	  |+4|	-	                             | 3 | 10| 2 | 5th | 5
+|10th	  |+4|	Otherworldly Patron feature    | 4 | 10| 2 | 5th | 5
+|11th	  |+4|	Mystic Arcanum (6th level)     | 4 | 11| 3 | 5th | 6
+|12th	  |+4|	Ability Score Improvement	     | 4 | 11| 3 | 5th | 6
+|13th	  |+5|	Mystic Arcanum (7th level)     | 4 | 12| 3 | 5th | 7
+|14th	  |+5|	Otherworldly Patron feature    | 4 | 12| 3 | 5th | 7
+|15th	  |+5|	Mystic Arcanum (8th level)     | 4 | 13| 3 | 5th | 8
+|16th	  |+5|	Ability Score Improvement	     | 4 | 13| 3 | 5th | 8
+|17th	  |+6|	Mystic Arcanum (9th level)     | 4 | 14| 4 | 5th | 9
+|18th	  |+6|	-               	             | 4 | 14| 4 | 5th | 9
+|19th	  |+6|	Ability Score Improvement	     | 4 | 15| 4 | 5th | 10
+|20th	  |+6|	Eldritch Master    	           | 4 | 15| 4 | 5th | 10
+
+{width:480px,float:right}
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+#### Multiclassing
+Ability Score Minimum: **Intelligence 13**
+When you gain a level in a class other than your first, you gain only some of that class's starting 
+###### proficiencies.
+:: **Armor**: light, medium, and heavy armor, shields
+:: **Weapons**: simple & martial melee weapons, thrown weapons
+
+### Pact Magic
+Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the warlock spell list.
+
+#### Cantrips
+You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+
+#### Spell Slots
+The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.
+
+\page
+
+#### Spells Known of 1st Level and Higher
+At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+
+The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
+
+Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
+
+{{note
+#### Spellcasting Ability
+Intelligence is your spellcasting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+Spellcasting Focus
+
+You can use an arcane focus as a spellcasting focus for your warlock spells.
+}}
+
+### Otherworldly Patron
+At 1st level, you have struck a bargain with an otherworldly being chosen from the list of available patrons. Your choice grants you features at **1st** level and again at **6th**, **10th**, and **14th** level.
+
+### Eldritch Invocations
+In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
+
+At **2nd level**, you gain two eldritch invocations of your choice. A list of the available options can be found on the Optional Features page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+
+Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+
+\column
+
+### Pact Boon
+At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+
+###### Pact of the Blade, Pact of the Chain, Pact of the Talisman, Pact of the Tome
+
+### Ability Score Improvement
+When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+### Mystic Arcanum
+At 11th level, you learn two 6th level spell which you can cast once per long rest. You can only ever cast 1 mystic arcanum per level you have. If you which you can upcast a lower level spell you know using the Mysic Arcanum level used.
+
+**At 13th level**, you can choose two 7th level spell
+
+**At 15th level**, you can choose two 8th level spell
+
+**At 17th level**, you can choose two 9th level spell
+
+### Eldritch Master
+At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
+
+## Pact Boon
+
+### Pact of the Tome
+Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. 
+
+If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+
+\page
+
+### Pact of the Talisman
+Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
+
+### Pact of the Chain
+You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+
+When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite, gazer, memphit
+
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+
+### Pact of the Blade
+For an action cost of 4, you can create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+
+\column
+
+### Pact of the Cards ♠♥♦♣
+Your Patron gifts you with the use of a mysterious pack of magical playing cards, which you may use as a spell casting focus. You can dismis your cards to an extra plannar demention and summon them back as an action. Additionally, you add double your proficiancy bonus to any skill check that requires the use of cards.
+
+{{note
+##### Patron's Cards
+
+The deck consists of a full set of 52 playing cards plus 2 jokers. The Deck always keeps itself shuffled and at the end of a long rest, all missing cards are destroyed & all destroyed cards get reshuffled back into the deck.
+
+Even if a card is removed from deck, it may still be found or drawn for mundane reasons such as a card game; If a Joker is drawn for any reason, it is always placed back in the deck unless only Jokers remain.
+
+You can change the asthetic design of your cards at will with a bonus action, though the whole deck must always resemble the same style. When you change your cards in this way, you may change the face cards to images of people who's likeness you've seen.
+
+}}
+
+
+|Suite|Type |
+|:-:|:-----:|
+|♠|Slashing |
+|♥|Fire     |
+|♦|Cold     |
+|♣|Lightning|
+
+{width:110px,border-radius:10px,float:right}
+
+**Throwing Cards:**
+For an action cost of 16, you can magically draw and throw a card as a thrown weapon(30/60) attack. You are proficant with these attacks and can use your Intelligence Modifier in place of Strength for the attack roll. The damge dealt is the face value of the card.On a hit, please refer to the *"Card Special Effect Table"* below. Regardless of hit or miss, the card is removed from your deck. The damage of the attack is = to the face value of the card. 
+
+The action cost is reduced to 10 at 5th level, 6 at 11th level, and 5 at 17th level.
+
+
+**Card Reaction:** 
+When you take damage from a spell or magical effect, you can use an Interupt Action for an initiative impact of 6  to magically draw a card from your deck and reduce the damage taken by an amount = to half the card's face value(min of 1). When you use your cards in this way, Only the joker's bonus effect will occuer if drawn. You can use this reaction a number of times per day = to your proficiancy bonus. 
+
+
+#### Card Special Effect Table
+|  Card  |Damage|  Bonus Effect on Hit
+|:----:|:-:|:----:|
+|**Ace** |1|  The creature gains vulnerability to all damage you deal until the start of your next turn|
+|**J** |11| The target must succed a Intelligence Saving throwor have disadvantage on saving throws until your next turn.|
+|**Q**|12| Any damage that is dealt to the target until the start of your next turn becomes magical and is of a type you choose.|
+|**K** |13| Target must succeed on a strength or fall prone and pushed 5 feet in a direction of your choice.|
+|**Joker**|**-**| Roll for an effect on the Wild Magic Table.(can only happen once per turn)<br>
+
+\page
+
+### Warlock Invocations
+
+##### Agonizing Blast
+Prerequisite: eldritch blast cantrip
+
+When you cast eldritch blast, add your Intelligence modifier to the damage it deals on a hit.
+
+##### Armor of Shadows
+
+You can cast mage armor on yourself at will, without expending a spell slot or material components.
+
+##### Ascendant Step
+Prerequisite: 9th level
+
+You can cast levitate on yourself at will, without expending a spell slot or material components.
+
+##### Aspect of the Moon
+Prerequisite: Pact of the Tome feature
+
+You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+
+##### Beast Speech
+You can cast speak with animals at will, without expending a spell slot.
+
+##### Beguiling Influence
+You gain proficiency in the Deception and Persuasion skills.
+
+##### Bewitching Whispers
+Prerequisite: 7th level
+
+You can cast compulsion once without using a warlock spell slot. You can't do so again until you finish a long rest.
+
+##### Bond of the Talisman
+Prerequisite: 12th level, Pact of the Talisman feature
+
+While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+
+##### Book of Ancient Secrets
+Prerequisite: Pact of the Tome feature
+
+You can now inscribe magical rituals in your Book of Shadows. Choose two *1st-level spells* that have the *ritual* tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+
+On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+
+##### Card Tricks
+*Prerequisite: Pact of the cards, 5th level*
+
+You gain the ability to store a single non-magical hand held item in a card for an action cost of 4. You may use a similar costing action to retrieve the item. 
+
+You can store a number of items = to your proficiancy bonus. Each stored Item, apears somewhere within the image of the card in which it was stored.
+
+##### Chains of Carceri
+Prerequisite: 15th level, Pact of the Chain feature
+
+You can cast hold monster at will (targeting a celestial, fiend, or elemental) without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+
+##### Cloak of Flies
+Prerequisite: 5th level
+
+As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
+
+The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
+
+Once you use this invocation, you can't use it again until you finish a short or long rest.
+
+##### Devil's Sight
+
+You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
+##### Double Down
+*Prerequisite: Pact of the cards*
+
+When you magically draw a card from your deck for any pupose, you may choose to draw two cards instead of one and choose which one to "play" Both cards are then removed from the deck. If one of the drawn cards is the Joker, you must "play" the Joker.
+
+##### Dreadful Word
+Prerequisite: 7th level
+
+You can cast confusion once without using a spell slot. You can't do so again until you finish a long rest.
+
+\page
+
+##### Duces Wild
+*Prerequisite: Pact of the cards, 7th level*
+
+Any 2s you draw from your deck can be treated as any card normally available. The two drawn is that card in both appearance and function, but does not replace the chosen card in your deack.
+
+##### Eldritch Mind
+You can make Intelligence Saving throws for your concentration checks and do so with advantage.
+
+##### Eldritch Sight
+
+You can cast detect magic at will, without expending a spell slot or material components.
+
+##### Eldritch Smite
+Prerequisite: 5th level, Pact of the Blade feature
+
+Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.
+
+##### Eldritch Spear
+Prerequisite: eldritch blast cantrip
+
+When you cast eldritch blast, its range is 300 feet.
+
+##### Eyes of the Rune Keeper
+
+You can read all writing.
+
+##### Far Scribe
+Prerequisite: 5th level, Pact of the Tome feature
+
+A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
+
+You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+
+As an action, you can magically erase a name on the page by touching it.
+
+##### Fiendish Vigor
+
+You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+
+##### Gaze of Two Minds
+
+For an action cost of 10 you can touch a willing humanoid and perceive through its senses for up to 12 seconds. As long as the creature is on the same plane of existence as you, you can use the same action before this effect expires to reset this connection. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+##### Ghostly Gaze
+Prerequisite: 7th level
+
+For an action cost of 10, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
+
+Once you use this invocation, you can't use it again until you finish a short or long rest.
+
+##### Gift of the Depths
+Prerequisite: 5th level
+
+You can breathe underwater, and you gain a swimming speed equal to your walking speed.
+
+You can also cast water breathing without expending a spell slot. You regain the ability to do so when you finish a long rest.
+
+##### Gift of the Ever-Living Ones
+Prerequisite: Pact of the Chain feature
+
+Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
+
+##### Gift of the Protectors
+Prerequisite: 9th level, Pact of the Tome feature
+
+A new page appears in your Book of Shadows. With your permission, a creature can write its name on that page, which can contain a number of names equal to your proficiency bonus.
+
+When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
+
+As an action, you can magically erase a name on the page by touching it.
+
+##### Grasp of Hadar
+Prerequisite: eldritch blast cantrip
+
+Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to yourself.
+
+\page
+
+##### Improved Pact Weapon
+Prerequisite: Pact of the Blade feature
+
+Your pact weapons gains the following features:
+
+* You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.
+* In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
+* you can take the attack action with your pact weapon for an action cost of 18
+* Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.
+
+##### Investment of the Chain Master
+Prerequisite: Pact of the Chain feature
+
+When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
+
+* The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.
+* As a bonus action, you can command the familiar to take the Attack action.
+* The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
+* If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+When the familiar takes damage, you can use your reaction to grant it resistance against that damage.
+
+##### Lance of Lethargy
+Prerequisite: eldritch blast cantrip
+
+Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.
+
+##### Lifedrinker
+Prerequisite: 12th level, Pact of the Blade feature
+
+When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+
+##### Maddening Hex
+Prerequisite: 5th level, hex spell or a warlock feature that curses
+
+Once per turn for an action cost of 4, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+
+##### Mask of Many Faces
+
+You can cast disguise self at will, without expending a spell slot.
+
+##### Master of Myriad Forms
+Prerequisite: 15th level
+
+You can cast alter self at will, without expending a spell slot.
+
+##### Minions of Chaos
+Prerequisite: 9th level
+
+You can learn the conjure elemental spell and can cast it once for free per long rest.
+
+##### Mire the Mind
+Prerequisite: 5th level
+
+You can cast slow once without using a warlock spell slot. You can't do so again until you finish a long rest.
+
+##### Misty Visions
+
+You can cast silent image at will, without expending a spell slot or material components.
+
+##### One with Shadows
+Prerequisite: 5th level
+
+When you are in an area of dim light or darkness, for an action cost of 10 you can become invisible until you move or take an action or a reaction.
+
+##### Otherworldly Leap
+Prerequisite: 9th level
+
+You can cast jump at will, without expending a spell slot.
+
+##### Protection of the Talisman
+Prerequisite: 7th level, Pact of the Talisman feature
+
+When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+
+##### Rebuke of the Talisman
+Prerequisite: Pact of the Talisman feature
+
+When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use an action interupt to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman's wearer. this action has an initiative impact of 4.
+
+\page
+
+##### Relentless Hex
+Prerequisite: 7th level, hex spell or a warlock feature that curses
+
+Your curse creates a temporary bond between you and your target. You have a teleport movement speed of 30, but every time you use this movement, you must end your movment closer to the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse and Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+
+##### Repelling Blast
+Prerequisite: eldritch blast cantrip
+
+When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+
+##### Sculptor of Flesh
+Prerequisite: 7th level
+
+You can cast polymorph once without using a warlock spell slot. You can't do so again until you finish a long rest.
+
+##### Shroud of Shadow
+Prerequisite: 15th level
+
+You can cast invisibility at will, without expending a spell slot.
+
+##### Sign of Ill Omen
+Prerequisite: 5th level
+
+You learn the bestow curse spell which doesn't count against the number of warlock spells you know.
+
+##### Spell Card
+*Prerequisite: Pact of the cards, 12th level*<br>
+
+Once per long rest you may magically draw one card, removing it from your deck, and cast a Warlock spell into the card using any required material components. The chosen spell must have a casting time of 1 minute or less. Any creature that holds the card can cast the spell for an action cost of 20 and ignoring the spell recovery time. casting the card's spell consumes the card as a material component.
+
+The holder of the card is concidered the spell caster for the purposes of the spell but uses your spell Save DC an spell attack bonus where required.
+
+If this spell card is either destroyed or not used in 24 hours, the spell effect is lost and any material components used are returned to you.
+
+##### Thief of Five Fates
+
+You learn the bane spell which doesn't count against the number of warlock spells you know.
+
+##### Thirsting Blade
+Prerequisite: 5th level, Pact of the Blade feature
+
+You can attack with your pact weapon twice, instead of once, whenever you take the Attack action.
+
+##### Tomb of Levistus
+Prerequisite: 5th level
+
+As an Action Interupt, when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
+
+Once you use this invocation, you can't use it again until you finish a short or long rest.
+
+##### Trickster's Escape
+Prerequisite: 7th level
+
+You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+
+##### Undying Servitude
+Prerequisite: 5th-level warlock
+
+You can cast animate dead without using a spell slot. When you cast this spell in this way, it is at cast is at your current warlock spell slot level. Once you do so, you can't cast it in this way again until you finish a long rest.
+
+##### Visions of Distant Realms
+Prerequisite: 15th level
+
+You can cast arcane eye at will, without expending a spell slot.
+
+##### Voice of the Chain Master
+Prerequisite: Pact of the Chain feature
+
+You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+
+##### Whispers of the Grave
+Prerequisite: 9th level
+
+You can cast speak with dead at will, without expending a spell slot.
+
+##### Witch Sight
+Prerequisite: 15th level
+
+You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
