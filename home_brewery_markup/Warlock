@@ -2,10 +2,10 @@
 Warlocks are a bit of a mystery as far as magic users are concerned. The Magic they use is channeled from some other far greater and far more powerful being they refer to as their Patron 
 {width:185px}
 
-A single Patron can have many followers and they are not allways benevolent. Infact they tend to reflect all forms of alignment. Because of this, many warlocks tend to be very reclusive, and avoid the ever prying eyes of society which always make far to  make  to many asumptions.
+A single Patron is likely to have many followers and they are not allways inclined to be benevolent beings. In truth, they tend to reflect all forms of alignment. Because of this, many warlocks tend to be very reclusive, and avoid the ever prying eyes of society.
 {width:185px}
 
-<br>
+<br><br>
 
 ## Class Features
 As an Warlock you gain the following class features
@@ -35,28 +35,29 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 \column
 
-|       | Prof. |                       |Cantr.|Spells|Spell|Slot|Invocations|
-| Level | Bonus | Features                 |Known|Known|Slots|Level|Known|
-|:-----:|:-----:|:--------------------------:|:-:|:-:|:-:|:-:|:-:|
-|1st	  |+2|	Pact Magic, Otherworldly Patron| - | - | - | - | -
-|2nd	  |+2|	Eldritch Invocations           | 2 | - | - | - | -
-|3rd	  |+2|	Pact Boon                      | 3 | - | - | - | -
-|5th	  |+3|	-           	                 | 4 | 2 | - | - | -
-|6th	  |+3|	Otherworldly Patron feature    | 4 | 2 | - | - | -
-|7th	  |+3|	-                 	           | 4 | 3 | - | - | -
-|8th	  |+3|	Ability Score Improvement	     | 4 | 3 | - | - | -
-|9th	  |+4|	-	                             | 4 | 3 | 2 | - | -
-|10th	  |+4|	Otherworldly Patron feature    | 4 | 3 | 2 | - | -
-|11th	  |+4|	Mystic Arcanum (6th level)     | 4 | 3 | 3 | - | -
-|12th	  |+4|	Ability Score Improvement	     | 4 | 3 | 3 | - | -
-|13th	  |+5|	Mystic Arcanum (7th level)     | 4 | 3 | 3 | 1 | -
-|14th	  |+5|	Otherworldly Patron feature    | 4 | 3 | 3 | 1 | -
-|15th	  |+5|	Mystic Arcanum (8th level)     | 4 | 3 | 3 | 2 | -
-|16th	  |+5|	Ability Score Improvement	     | 4 | 3 | 3 | 2 | -
-|17th	  |+6|	Mystic Arcanum (9th level)     | 4 | 3 | 3 | 3 | 1
-|18th	  |+6|	-               	             | 4 | 3 | 3 | 3 | 1
-|19th	  |+6|	Ability Score Improvement	     | 4 | 3 | 3 | 3 | 2
-|20th	  |+6|	Eldritch Master    	           | 4 | 3 | 3 | 3 | 2
+|       | Prof. |                     |Cantr.|Spells|Spell|Slot|Invocations|
+| Level | Bonus | Features             |Known|Known|Slots|Level|Known|
+|:-----:|:-----:|:--------------------------:|:-:|:-:|:-:|:---:|:-:
+|1st	  |+2|	Pact Magic, Otherworldly Patron| 2 | 2 | 1 | 1st | -
+|2nd	  |+2|	Eldritch Invocations           | 2 | 3 | 2 | 1st | 2
+|3rd	  |+2|	Pact Boon                      | 2 | 4 | 2 | 2nd | 2
+|5th	  |+3|	-           	                 | 3 | 5 | 2 | 2nd | 2
+|5th	  |+3|	Ability Score Improvement      | 3 | 6 | 2 | 3rd | 3
+|6th	  |+3|	Otherworldly Patron feature    | 3 | 7 | 2 | 3rd | 3
+|7th	  |+3|	-                 	           | 3 | 8 | 2 | 4th | 4
+|8th	  |+3|	Ability Score Improvement	     | 3 | 9 | 2 | 4th | 4
+|9th	  |+4|	-	                             | 3 | 10| 2 | 5th | 5
+|10th	  |+4|	Otherworldly Patron feature    | 4 | 10| 2 | 5th | 5
+|11th	  |+4|	Mystic Arcanum (6th level)     | 4 | 11| 3 | 5th | 6
+|12th	  |+4|	Ability Score Improvement	     | 4 | 11| 3 | 5th | 6
+|13th	  |+5|	Mystic Arcanum (7th level)     | 4 | 12| 3 | 5th | 7
+|14th	  |+5|	Otherworldly Patron feature    | 4 | 12| 3 | 5th | 7
+|15th	  |+5|	Mystic Arcanum (8th level)     | 4 | 13| 3 | 5th | 8
+|16th	  |+5|	Ability Score Improvement	     | 4 | 13| 3 | 5th | 8
+|17th	  |+6|	Mystic Arcanum (9th level)     | 4 | 14| 4 | 5th | 9
+|18th	  |+6|	-               	             | 4 | 14| 4 | 5th | 9
+|19th	  |+6|	Ability Score Improvement	     | 4 | 15| 4 | 5th | 10
+|20th	  |+6|	Eldritch Master    	           | 4 | 15| 4 | 5th | 10
 
 {width:480px,float:right}
 
