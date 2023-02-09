@@ -1,0 +1,261 @@
+# Professional
+Professional is a sort of catch all reference for someone who excels at jobs that need precision and focus. Often recruited for dangerous situations that require hightened performance and precision under pressure and/or dangerous circumstances. Particularly when a certain degree of anonymity is required. 
+
+## The Professional 
+
+|     |Prof.|                     |Precision|
+|Level|Bonus| Features                 |die |
+|:---:|:---:|:------------------------:|:--:|
+| 1st | +2  | Expertise, Precision     | 1d6|
+|     |     | <br>Thieves' Cant       ^|    |
+| | | | |
+| 2nd | +2  | Cunning Action           | 1d6|
+| 3rd | +2  | **Profession**           | 2d6|
+| 4th | +2  | Ability Score Improvemnt | 2d6|
+| 5th | +3  | **Profession Feature**   | 3d6|
+| 6th | +3  | Expertise, Uncanny Dodge | 3d6|
+| 7th | +3  | Evasion                  | 4d6|
+| 8th | +3  | Ability Score Improvemnt | 4d6|
+| 9th | +4  | **Profession Feature**   | 5d6|
+| 10th| +4  | Ability Score Improvement| 5d6|
+| 11th| +4  | Reliable Talent          | 6d6|
+| 12th| +4  | Ability Score Improvemnt | 6d6|
+| 13th| +5  | **Profession Feature**   | 7d6|
+| 14th| +5  | Blindsense               | 7d6|
+| 15th| +5  | **Profession Feature**   | 8d6|
+| 16th| +5  | Ability Score Improvemnt | 8d6|
+| 17th| +6  | Slipery Mind             | 9d6|
+| 18th| +6  | Elusive                  | 9d6|
+| 19th| +6  | Ability Score Improvemnt |10d6|
+| 20th| +6  | Stroke of Luck           |10d6|
+
+### Class Features
+As an Professional you gain the following class features
+
+#### Hit points
+::**Hit Dice:** 1d8 per Professional level
+::**Hit Points at 1st Level:** 8 + your Constitution modifier
+:: **Hit Points at Higher Level:** 1d8 (or 5) + your constituion modifier per Professional level after 1st
+
+#### Proficiancies
+:: **Armor:** none
+:: **Weapons:** Simple Weapons, Shortswords
+:: **Tools:** none
+:: **Saving Throws:** Strength, Dexterity
+:: **Skills:** Choose 2 from Acrobatics, Athletics, History, Insight, Religion, and Stealth.
+
+\column
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a shortsword or (b) any simple weapon
+* (a) a dungeoneer's pack or (b) an explorer's pack
+* 10 darts
+
+Alternatively, you may start with 5d4 gp to buy your own equipment.
+
+#### Multiclassing
+Ability Score Minimum: **Dexterity 13**
+
+When you gain a level in a class other than your first, you gain only some of that class's starting 
+###### proficiencies.
+:: **Weapons:** simple weapons, shortswords
+
+### Expertise
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
+
+### Precision
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+
+### Between the Lines
+During your training you learned comunicate messages an ideas in conversation, that have nothing to do with surface value of the conversation. Only another creature that can 'Read Between the Lines' can understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+
+\page
+
+### Off the Cuff(maybe to much?)
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly.
+
+When you deal extra damage with your `Precision` feature, you can take either the Disengage, Help, Hide, or Dash action for free without impacting your initiative window.
+
+Additionally, When you take the Disengage, Help, Hide, or Dash action, you can take the Disengage, Help, or Hide action on your turn without impacting your action window.
+
+### Profession
+At 3rd level, you choose an archetype that you emulate in the exercise of your abilities from the list of available archetypes. Your archetype choice grants you features at **3rd** level and then again at **5th**, **9th**, **13th**, and **15th** level.
+
+### Ability Score Improvement
+When you reach **4th** level, and again at **8th**, **10th**, **12th**, **16th**, and **19th** levl, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+### Uncanny Dodge
+Starting at 6th level, when an attacker that you can see hits you with an attack, you can use an action interupt (initiative impact: 4) to halve the attack's damage against you.
+
+### Evasion
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+### Reliable Talent
+By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+### Blindsense
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+
+### Slippery Mind
+By 17th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
+
+### Elusive
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+
+### Stroke of Luck
+At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+
+## Profession
+
+### Con-Artist
+
+#### Professional Liar(3)
+*3rd level Profession Feature*
+
+you gain proficiancy in the forger's kit. If you already have proficiancy, you may double it.
+
+When you make a successfull  Persuasion or Deception check, you can aslo choose to force that creature must make a charisma Saving throw against your Con-Artist DC. If it fails, it is charmed by you until it is no longer within 120 feet of you, you attack it, or do anything otherwise blatently untoward (DMs discresion) 
+
+{{note
+##### Con-Artist's Charm
+Your **Con-Artist DC** is calculated as (8 + charisma modifier + proficiancy bonus) and is used for all your subclass features
+
+
+You can have a maximum number of creature's charmed by your Con-Artist's Charm = to your proficiancy bonus, and you can atempt to do this a number of times per day = 1 + half your level. If you charm any more than your total active capacity, you oldest charm fades.
+
+If a creature succesfully saves against your Profesional Liar charm effect, it is *immune to further attempts for 24 hours.*
+
+}}
+
+#### Charming Faces(5)
+*5th level Profession Feature*
+
+You've learned a bit of Magic and can cast the disguise self spell and charm person spell once per long rest each.
+
+#### Unfortunate(9)
+*9th  level Profession Feature*
+
+When a creature, that is charmed by you, makes a skill check, you can choose the result. You can use this ability no more than once per creature per day, and no more than a total of times = to your proficiancy bonus.
+
+#### The Burn(13)
+*13th level Profession Feature*
+
+When you land an attack against a creature that is charmed by you, it deals max damage
+
+\page
+
+#### Con Artist(15)
+*15th level Profession Feature*
+
+you can use your `Charming Faces` spells, up to a number of times = to your Charisma modifier. Also your `Profesional Liar` Feature no longer has a range limitation.
+
+### Swashbuckler
+
+#### Fancy Footwork(3)
+*3rd level Profession Feature*
+
+When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
+
+Additionally, you can reduce your action window calulation total by your charisma modifier.
+
+#### Rakish Audacity(5)
+*5th level Profession Feature*
+
+When you take the attack action and you miss with the 1st attack, you can make a second attack but may only apply half the Precision dice (min 1d6) to the damage. if the attack qualifies for precision dice
+
+#### Panache(9)
+*9th  level Profession Feature*
+
+At 9th level, your charm becomes extraordinarily beguiling. For an action cost of 20, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.
+
+If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
+
+If you succeed on the check and the creature isn't hostile to you, it is charmed by you for 1 minute. While charmed, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
+
+#### Elegant Maneuver(13)
+*13th level Profession Feature*
+
+If an enemy moves within 5 or 10 feet of you, can use an action interupt (initiative impact 4) to move up to 10 feet without provoking attacks of opertunity. Once you use this action, you cannot use this action again until you start your turn.
+
+#### Master Duelist(15)
+*15th level Profession Feature*
+
+For an action cost of 4 you gain advantage on the next Dexterity (Acrobatics) or Strength (Athletics) check you make during the same turn.
+
+\column
+
+### Arcane Trikster
+
+#### Spellcasting(3)
+*3rd level Profession Feature*
+
+When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.
+
+**Cantrips:** You learn three cantrips: mage hand and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
+
+|Arcane Trickster Spellcasting||||
+|Character|Spell levels        |||
+|  Level  |1st|2nd|3rd|
+| :------:|:-:|:-:|:-:|
+|  1-2nd  | - | - | - |
+|  3-5th  | 2 | - | - |
+|  6-8th  | 3 | - | - |
+|  9-11th | 4 | 2 | - |
+| 12-14th | 4 | 3 | - |
+| 15-17th | 4 | 3 | 2 |
+| 18-20th | 4 | 3 | 3 |
+
+{float:right,width:"180px"}
+
+
+<br>**Spell Slots:** The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.
+
+#### Mage Hand Legerdemain(5)
+*5th level Profession Feature*
+
+Starting at 3rd level, when you cast mage hand, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
+
+* You can stow one object the hand is holding in a container worn or carried by another creature.
+* You can retrieve an object in a container worn or carried by another creature.
+* You can use thieves' tools to pick locks and disarm traps at range.
+
+You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
+
+In addition, you can use the bonus action granted by your Cunning Action to control the hand
+
+#### Magical Ambush
+*9th level Profession Feature*
+
+Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
+
+\page
+
+#### Versatile Trickster
+*13th level Profession Feature*
+
+At 13th level, you gain the ability to distract targets with your mage hand. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+
+#### Spell Thief
+*15th level Profession Feature*
+
+At 15th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
+
+Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.
+
+Once you use this feature, you can't use it again until you finish a long rest.
