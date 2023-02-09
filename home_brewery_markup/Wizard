@@ -1,0 +1,307 @@
+# Wizard
+Wizards are the tried and true Spell caster. They dedicate their lives to the study and practice of the arcane. The wizard has nearly unparalleled knowledge on the interworkings of how the weave is influenced by casting a spell.
+{width:185px}
+
+Abjuration, Chronomancy, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutaion are the primary school of magic. Most Wizards subscribe to one of these schools. The core of their focus specialize in their school granting them spell skills when infuenceing the weave with a spell that belongs to a particular school of magic.
+{width:185px}
+
+
+## Class Features
+As a Wizard, you gain the 
+
+following class features
+
+#### Hit points
+::**Hit Dice:** 1d8 per Warlock level
+::**Hit Points at 1st Level:** 8 + your Constitution modifier
+:: **Hit Points at Higher Level:** 1d8 (or 5) + your constituion modifier per Warlock level after 1st
+
+#### Proficiancies
+:: **Armor:** light armor, medium armor, heavy armor, shields
+:: **Weapons:** simple weapons, martial weapons
+:: **Tools:** none
+:: **Saving Throws:** Wisdom, Inteligence
+:: **Skills:** Choose 2 from Acrobatics, Athletics, History, Insight, Religion, and Stealth.
+
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+
+* (a) a martial weapon and a shield or (b) two martial weapons
+* (a) five javelins or (b) any simple melee weapon
+* (a) a priest's pack or (b) an explorer's pack
+* Chain mail and a holy symbol
+
+Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
+
+
+\column
+
+|       | Prof. |                         |Cantr.|Spell Slots per Spell Level|||||||||
+| Level | Bonus | Features                 |Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
+|:-----:|:-----:|:--------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1st	  |+2|	Arcane Recovery, Spellcasting  | 3 | 2 | - | - | - | - | - | - | - | - |
+|2nd	  |+2|	Arcane Tradition               | 3 | 3 | - | - | - | - | - | - | - | - |
+|3rd	  |+2|	-                              | 3 | 4 | 2 | - | - | - | - | - | - | - |
+|4th	  |+2|	Ability Score Improvement      | 4 | 4 | 3 | - | - | - | - | - | - | - |
+|5th	  |+3|	-           	                 | 4 | 4 | 3 | 2 | - | - | - | - | - | - |
+|6th	  |+3|	Tradition Feature              | 4 | 4 | 3 | 3 | - | - | - | - | - | - |
+|7th	  |+3|	-                 	           | 4 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+|8th	  |+3|	Ability Score Improvement	     | 4 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+|9th	  |+4|	-	                             | 4 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+|10th	  |+4|	Tradition Feature              | 5 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+|11th	  |+4|	-                              | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+|12th	  |+4|	Ability Score Improvement	     | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+|13th	  |+5|	-                              | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+|14th	  |+5|	Tradition Feature              | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+|15th	  |+5|	-                              | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+|16th	  |+5|	Ability Score Improvement	     | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+|17th	  |+6|	-                              | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+|18th	  |+6|	Spell Mastery    	             | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+|19th	  |+6|	Ability Score Improvement	     | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+|20th	  |+6|	Signature Spells   	           | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+{width:480px,float:right}
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+### Arcane Recovery
+*1st level wizard feature*
+
+You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
+
+For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots.
+
+You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+
+### Spellcasting
+*1st level wizard feature*
+
+As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.
+
+#### Cantrips
+At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+
+#### Spellbook
+At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+
+\page
+
+#### Preparing and Casting Spells
+The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+{{note
+##### Spellcasting Ability
+Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+}}
+##### Ritual Casting
+You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+
+##### Spellcasting Focus
+You can use an arcane focus as a spellcasting focus for your wizard spells.
+
+##### Learning Spells of 1st Level and Higher
+Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
+
+\column
+
+### Arcane Tradition
+*2nd level wizard feature*
+
+When you reach **2nd** level, you choose an arcane tradition from the list of available traditions, shaping your practice of magic. Your choice grants you features at 2nd level and again at **6th**, **10th**, and **14th** level.
+
+### Ability Score Improvement
+*4th level wizard feature*
+
+When you reach **4th** level and again at **8th**, **12th**, **16th**, and **19th** level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+### Spell Mastery
+*20th level wizard feature*
+
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
+By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
+
+### Signature Spells
+*4th level wizard feature*
+
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+
+If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
+## Arcane Traditions
+
+
+### School of Abjuration
+
+#### Abjuration Savant(2)
+*2nd level arcane tradition feature*
+
+The gold and time you must spend to copy an abjuration spell into your spellbook is halved.
+Additionally, when you cast an abjuration spell, can choose to halve one of the following aspects of the spell: <u>*Additional action cost*</u>, <u>*Spell recovery time*</u>, the action interupt's <u>*initiative impact.*</u>
+
+\page
+#### Abjurer Remnents(2)
+
+*2th level arcane tradition feature*
+
+You gain access to a pool of abjuration points which can be used for your various Abjuration Tradition Features. When you finish a short rest, your pool of illusion points is always set to your Inteligence modifier. Every time you cast an abjuration spell of 1st level or higher, you add the spell's level to your illusion points.
+
+#### Abjuration Ward(2)
+*2nd level arcane tradition feature*
+
+You learn how to weave magic around you for protecion. On your turn, you can create a protective abjuration ward for an action cost of 6. When you do so, chose a number of abjurer points to spend up to your wizard level. Until the ward fades. you ignore an amount of any damage dealt up to the number of abjurer points used to create the ward. This ward does not benifit from any resistances you have.
+
+This Abjuration Ward lasts for a number a number of initiative counts = 10 times your proficiancy bonus.
+
+
+#### Projected Ward(2)
+*6th level arcane tradition feature*
+
+When a creature that you can see within 30 feet of you takes damage, you can use an action interupt (Initiative Impact: 10) to cause your Arcane Ward to transfer to that creature. Once you've used this action, you cannot use it again until you've started your turn.
+
+#### Improved Abjuration
+*10th level arcane tradition feature*
+
+When you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check.
+
+#### Spell Resistance
+*14th level arcane tradition feature*
+
+Starting at 14th level, you have advantage on saving throws against spells. 
+Furthermore, you have resistance against the damage of spells.
+
+### School of Conjuration
+
+#### Conjuration Savant(2)
+*2nd level arcane tradition feature*
+
+The gold and time you must spend to copy a conjuration spell into your spellbook is halved.
+Additionally, when you cast a conjuration spell, can choose to halve one of the following aspects of the spell: <u>*Additional action cost*</u>, <u>*Spell recovery time*</u>, the action interupt's <u>*initiative impact.*</u>
+
+#### Knowledgeable Conjurer(2)
+*2nd level arcane tradition feature*
+
+All conjuration spells are added to your wizard spell list.
+
+\column
+
+#### Minor Conjuration(2)
+*2nd level arcane tradition feature*
+
+Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
+
+The object disappears after 1 hour, when you use this feature again, if it takes any damage, or if it deals any damage.
+
+#### Benign Transposition(6)
+*6th level arcane tradition feature*
+
+FOr an action cost of 10, you can teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+
+You can use this ability a number of times = to your poficiancy bonus and regain all expended uses at the end of a long rest
+
+#### Focused Conjuration
+*10th level arcane tradition feature*
+
+Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.
+
+#### Durable Summons
+*14th level arcane tradition feature*
+
+Any creature or object that you summon or create with a conjuration spell has 30 temporary hit points.
+
+### School of Divination
+
+#### Divination Savant(2)
+*2nd level arcane tradition feature*
+
+The gold and time you must spend to copy a divination spell into your spellbook is halved.
+Additionally, when you cast a divination spell, can choose to halve one of the following aspects of the spell: <u>*Additional action cost*</u>, <u>*Spell recovery time*</u>, the action interupt's <u>*initiative impact.*</u>
+
+#### Deep Seer(2)
+*2nd level arcane tradition feature*
+
+All divination spells are added to your wizard spell list.
+
+#### Never Blind(2)
+*2nd level arcane tradition feature*
+
+You have blind sight out to a range of 10 times your proficiancy bonus.
+
+\page
+
+#### Far Seeing(6)
+*2nd level arcane tradition feature*
+
+All divination spells are treated as 1 level lower, first level spells, however remain as first level spells.
+
+#### Eatheral Vision(10)
+
+Your Never Blind feature also allows you to see into the eatheral plane.
+
+#### Second Nature Divinations(14)
+No divination spell requires concentration for you.
+
+
+
+
+\page
+### School of Illusion
+
+#### Illusion Savant(2)
+*2nd level arcane tradition feature*
+
+The gold and time you must spend to copy an illusion spell into your spellbook is halved.
+Additionally, when you cast an illusion spell, can choose to halve one of the following aspects of the spell: <u>*Additional action cost*</u>, <u>*Spell recovery time*</u>, the action interupt's <u>*initiative impact.*</u>
+
+
+
+#### Illusioned Excess(2)
+*2th level arcane tradition feature*
+
+You gain access to a pool of illusion points which can be used for your various Illusion Tradition Features. When you finish a short rest, your pool of illusion points is always set to your Inteligence modifier. Every time you cast an illusion spell of 1st level or higher, you add the spell's level to your illusion points.
+
+#### Improved Minor Illusion(2)
+*2nd level arcane tradition feature*
+
+You learn the minor illusion cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+
+When you cast minor illusion, you can spend 1 illusion point to create both a sound and an image with a single casting of the spell. If no point is spent, the cantrip functions as normal.
+
+#### Malleable Illusions(6)
+*6th level arcane tradition feature*
+
+When you cast an illusion spell that has a duration of 1 minute or longer, For an *action cost of 4*, you can to change the nature of that illusion (using the spell's normal parameters for the illusion). To do this requires *2 illusion points*
+
+#### Illusory Self(10)
+*10th level arcane tradition feature*
+
+You can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use an action interupt (Initiative impact: 10) to spend 5 illusion points and interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
+
+
+
+#### Illusory Reality(14)
+
+*14th level arcane tradition feature*
+You have learned the secret of weaving shadow magic into your illusions to give them a semireality. 
+
+When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as an action cost of 4 while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross. 
+This object can't deal damage or otherwise directly harm anyone.
+{{note 
+##### Illusory Reality Illusion cost
+Using your Illusory Reality feature for a larger object requires a greater illusion point cost
+* ( 3 points) hand held item such as a weapon, or a key
+* ( 5 points) an object that fits within a 5 foot cube
+* ( 7 points) an object that fits within a 10 foot cube
+* (10 points) an object that fits within a 20 foot cube
+}}
