@@ -49,7 +49,7 @@ Action Interupts are actions that you can take out of your turn. Most define a t
 |    Action  | Action Cost |
 |:----------:|:-----------:|
 | Attack     |20
-| Cast Spell |10
+| Cast Spell |special*
 | Dash       |14
 | Disengage  |10
 | Dodge      |10
@@ -74,11 +74,9 @@ When you take the attack action, you make a melee weapon attack, a ranged weapon
 ##### Cast a Spell
 *action cost 5*
 
-All spells have a base action cost minimum of 5. Most spells have an addtional cost and a recovery time, both of which should be included in the spell description.
+Each spell description contains an action cost(defined in the spell) which needs to fit within your action window. The Spell recovery time does not need to fit into your action window.
 
-Only the base action cost for casting a spell and the and additional cost(defined in the spell) need to fit within your action window. The Spell recovery time does not need to fit into your action window.
-
-Each spell should contain a casting time, which sould reflect how many counts of initiative before the spell takes effect as well as a spell recovery time, which defines the initiative impact after casting the spell.
+Each spell should contain a spell recovery time, which should reflect how many additional counts of initiative your next turn is pushed out.
 
 ##### Dash 
 *action cost of 14*
