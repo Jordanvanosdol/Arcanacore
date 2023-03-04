@@ -1,0 +1,702 @@
+# Arcanacore Races
+There are many playable races that each provide a unique spin to characters.
+
+They all have various physical stats and proclivities to which their people generally exhibit or adhere. They all provide some measure of stat boost, common proficiancies and racial features. These features and boosts are granted simply by being a member of the selected race and are usable as presented, regardless of any other character options chosen by the player.
+
+Many races have subraces options which allow to further make your character your own. 
+
+## CoreRace Options:
+
+### Dragonkin
+<u>**Features:**</u>
+
+**Ability Scores:**: +1 to Con
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Draconic
+
+**Size:** Medium.
+
+**Speed:** 30 ft.
+
+**Dragon Claws:** You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength or Dexterity modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. Your claws count as weapon attacks.
+
+**Subrace:** You gain all the benifits of one subrace of your choice which also determines what kind of Draconic ancestry options are available to you
+
+###### Draconic Ancestry Table
+|Ancestry| Damage  |Breath Save |Breath Area|
+|:------:|:-------:|:----------:|:---------:|
+| Black  |Acid     |Constitution|15ft. cone
+| Blue   |Lightning|Constitution|15ft. cone
+| Green  |Poison   |Constitution|15ft. cone
+| Red    |Fire     |Constitution|15ft. cone
+| White  |Cold     |Constitution|15ft. cone
+| Brass  |Fire     |Dexterity   |30 x 5ft. line
+| Bronze |Lightning|Dexterity   |30 x 5ft. line
+| Copper |Acid     |Dexterity   |30 x 5ft. line
+| Gold   |Fire     |Dexterity   |30 x 5ft. line
+| Silver |Cold     |Dexterity   |30 x 5ft. line
+
+{border:"1px solid"}
+
+
+**Breath Weapon**. Once on your turn, you can replace one of your attacks with an exhalation of magical energy in an area determined by your ancestry. Each creature in that area must make a Dexterity saving throw <u>(DC = 8 + your CON modifier + your prof. bonus)</u>. On a failed save, the creature takes 1d10 damage, per every 5  character levels, of the type associated with your Ancestry, or half on a successful save.
+
+You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.   object-position:"-20% 0",
+
+![alt-text](https://cdna.artstation.com/p/assets/images/images/037/405/688/large/eugenio-frosali-dragonborne-thief.jpg) {width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+#### Chromatic Dragonkin(Subrace)
+as a Chromatic Dragonborn, you gain the additional subrace features.
+
+**Ability Scores:**: +2 to either Strength or Charisma
+
+**Chromatic Ancestry:** You can choose from the following options for your draconic ancestry: (Black, Blue, Green, Red, and White)
+
+**Dragon Toughness:** You gain +1 hp per level
+
+**Chromatic Warding:** Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. 
+
+Once you use this trait, you can't do so again until you finish a long rest.
+
+#### Metalic Dragonkin (Subrace)
+as a Metalic Dragonborn, you gain the additional subrace features.
+
+**Ability Scores:**: +2 to either Dexterity or Charisma
+
+**Chromatic Ancestry:** You can choose from the following options for your draconic ancestry: (Brass, Bronze, Copper, Gold, and Silver)
+
+**Metal Scales:** You can calculate your AC = 13 + your Dexterity Modifier.
+
+**Ancestry Channeling:** Starting at 5th level, as an action, you can channel your draconic energy into your attacks. For 1 minute, you add additional damage = to half your proficiancy bonus onto all your melee weapon damage rolls. This extra damage is of the type associated with your Draconic Ancestry
+
+Once you use this trait, you can't do so again until you finish a long rest.
+
+\page
+### Dwarf
+
+<u>**Features:**</u>
+
+**Ability Scores:**: +2 to Con *&* +1 to (Str or Wis)
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Dwarvish
+
+**Size:** Medium
+
+**Speed:** 25 ft.
+
+**Armor Inclined:** You are always concidered to be proficiant in one leavel heavier armor than you otherwise would be.
+
+**Darkvision**: Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray
+
+**Dwarven Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
+
+**Dwarven Combat Training:** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+
+**Tool Proficiency:** You gain proficiency with the artisan's tools of your choice: Smith's tools, brewer's supplies, or mason's tools.
+
+**Stonecunning:** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+
+**Stout:** Your speed is never reduced by wearing heavy armor.
+
+![alt-text](https://i.pinimg.com/originals/d5/41/53/d541535a16212cb6eafc42f5cf4f2afc.jpg){width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+\page
+
+### Elf
+
+<u>**Features:**</u>
+
+**Ability Scores:**: +1 to Dex
+
+**Base Initiative Impact:** 9
+
+**Languages:** Common and Elvish
+
+**Size:** Medium
+
+**Speed:** 30 ft.
+
+**Keen Senses:** You have proficiency in the Perception skill.
+
+**Fey Ancestry:** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+
+**Trance:** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.
+
+**Elf Weapon Training:** You have proficiency with the longsword or any one bow or crossbow of your choice.
+
+**Subrace:** You gain all the benifits of one subrace of your choice. If a subrace claims to nullify or replace a base racial feature, you cannot use it.<br><br>
+
+![alt-text](https://i.pinimg.com/originals/2e/0f/ee/2e0fee63d593cea1aada59d3f8f2a815.jpg){width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+#### HighElf(Subrace)
+as a High Elf, you gain the additional subrace features
+
+**Ability Scores:**: +1 to Int *&* +1 to Dex
+
+**Cantrip** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+
+**Extra Language** You can speak, read, and write one extra language of your choosing.
+#### WoodElf(Subrace)
+as a Wood Elf, you gain the additional subrace features
+
+**Ability Scores:**: +1 to Wis *&* +1 to Dex
+
+**Fleet of Foot:** Your base walking speed increases to 35 feet.
+
+**Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+#### Eladrin(Subrace)
+as a Eladrin, you gain the additional subrace features
+
+**Ability Scores:**: +2 to Cha
+
+**Fey Step:** As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest.
+When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:
+
+**Autumn**. Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.
+
+**Winter**. When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+
+**Spring**. When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+
+**Summer**. Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).
+
+#### Drow(Subrace)
+as a Drow, you gain the additional subrace features
+
+**Ability Scores:**: +1 to Cha *&* +1 to Dex
+
+**Sunlight Sensitivity:** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+**Drow Magic:** You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the darkness spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+**Drow Weapon Training:** You have proficiency with rapiers, shortswords, and hand crossbows. (replaces 'Elf Weapon Training')
+
+#### Half-Elf(Subrace)
+as a Half-Elf, you gain the additional subrace features
+**Ability Scores:**: +1 to any stat of your choice
+
+**Trancelss** you lose your 'Trance' feature
+
+**Feat:** Choose one feat of your choice
+
+**Dual Heritige:** you count as both an elf and a human for the purpose of racial prerequisites.
+
+\page
+
+### Gnome
+
+**Ability Scores:**: +2 to Int
+
+**Base Initiative Impact:** 8
+
+**Languages:** Common and Gnomish
+
+**Size:** small
+
+**Speed:** 25 ft.
+
+**Darkvision**: Accustomed to life underground and in dimlit forests, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray
+
+**Gnome Cunning:** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+**Subrace:** You gain all the benifits of one subrace of your choice. If a subrace claims to nullify or replace a base racial feature, you cannot use it.<br><br>
+
+![alt-text](https://static.wikia.nocookie.net/blackbandos-homebrew/images/1/12/Gnome.jpg){width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+
+#### Forest Gnome(Subrace)
+As a Forest Gnome, you gain the additional subrace features
+
+**Ability Scores:** +1 to Dex
+
+**Natural Illusionist:** You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.
+
+**Speak with Small Beasts:** Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
+
+#### Rock Gnome(Subrace)
+As a Rock Gnome, you gain the additional subrace features
+
+**Ability Scores:** +2 to Str
+
+**Stone Shaper:** You learn the mold-earth cantrip. Once you reach 5th level you learn the Meld into Stone, Stone Shape spells. Once per long rest you can cast one of these spells without consuming a spellslot.
+
+you may also use any avaiable spell slots you cast these learned spells.
+
+#### Deep Gnome(Subrace)
+As a Deep Gnome, you gain the additional subrace features
+
+**Ability Scores:** +1 to Con
+
+**Stone Camouflage:** You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.
+
+**Superior Darkvision:** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+\page
+### Halfling
+<u>**Features:**</u>
+
+**Ability Scores:**  +1 to Dex
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and a choice of one other
+
+**Size:** Small
+
+**Speed:** 25 ft
+
+**Lucky:** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+
+**Brave:** You have advantage on saving throws against being frightened.
+
+**Halfling Nimbleness:** You can move through the space of any creature that is of a size larger than yours, though you must not end your turn in such a space<br><br>
+
+![alt-text](https://cdnb.artstation.com/p/assets/images/images/040/423/159/large/adam-schumpert-petunia-potts-websized.jpg
+){width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+#### Ghostwise Halfling(Subrace)
+as a Lotusden Halfling, you gain the additional subrace features
+
+**Ability Scores:**  +1 Cha and +1 to on other of your choice.
+
+**Sneaky:** You gain proficiancy in the stealth skill
+
+**Silent Speech:** You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+
+#### Lotusden Halfling(Subrace)
+as a Lotusden Halfling, you gain the additional subrace features
+
+**Ability Scores:**  +2 to Wis
+
+
+
+**Timberwalk:** Ability checks made to track you have disadvantage, and you can move across difficult terrain made of plants and undergrowth without expending extra movement.
+
+\column
+
+**Woods Child:** You know the *<u>druidcraft</u>* cantrip. When you reach 3rd level, you can cast the <u>*entangle*</u> spell once with this trait and regain the ability to do so when you finish a long rest. 
+
+When you reach 5th level, you can cast the <u>*spike-growth*</u> spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.
+
+You can also cast these spells using a spell slot of the appropriate level or higher.
+
+#### Stout Halfling(Subrace)
+as a Stout Halfling, you gain the additional subrace features
+
+**Ability Scores:**  +2 to Con
+
+**Stout Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
+
+**Stout:** Your speed is never reduced by wearing heavy armor.
+\page
+### Human
+<u>**Features:**</u>
+
+**Ability Scores:** All stats: +1
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and a choice of one other
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Skilled:** You gain proficiency in one skill, one weapon, and one language of your choice. Additionally you are prociant in one level heavier armor than normally available to you.
+
+### Human(Variant)
+<u>**Features:**</u>
+
+**Ability Scores:**  +1 to two different stats of your choice
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and a choice of one other
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Feat:** Choose one feat of your choice
+
+**Skill Flexibility:** Choose one of the two stats you chose to increase. You can add your proficiancy bonus to any ability check using that stat, provided the check is not somthing you could normally take proficiancy in.<br><br>
+
+
+
+![alt-text](https://cdnb.artstation.com/p/assets/images/images/033/325/879/large/xin-jin-npc4.jpg){width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+
+\page
+
+### Orc
+<u>**Features:**</u>
+
+**Ability Scores:** +1 to Str and +1 to Con
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Orc
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Darkvision:** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Savage Attacks:** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+
+![alt-text](https://preview.redd.it/fnziq4smy3x91.jpg?width=640&crop=smart&auto=webp&v=enabled&s=2decd365000ba7dcf4ec65716db812efc1dde714){width:300px,height:280px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+
+
+#### Half Orc(Subrace)
+as a Half Orc, you gain the additional subrace features
+
+**Ability Scores:** +1 to any stat
+
+**Menacing:** You gain proficiency in the Intimidation skill.
+
+**Relentless Endurance:** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+
+#### Full-blood Orc(Subrace)
+as a Full-blood Orc, you gain the additional subrace features
+
+**Ability Scores:** +1 to any stat
+
+**Aggressive:** your speed is 45ft. but you must end your turn closer to an enemy. otherwise, it remains 30ft.
+
+**Primal Intuition:** You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
+
+**Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+\page
+
+### Tiefling
+<u>**Features:**</u>
+
+**Ability Scores:** +2 to Cha or Int
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Orc
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Darkvision**. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Hellish Resistance**. You have resistance to fire damage.
+
+![alt-text](https://cdnb.artstation.com/p/assets/images/images/018/767/979/large/peter-eastwood-valiancebges.jpg){width:300px,height:300px,object-fit:cover,object-position:"-20% 0",border:"2px solid",border-radius:10px}
+
+#### Dispater Tiefling(subrace)
+as a Dispater Tiefling, you gain the additional subrace features
+
+**Ability Scores:** +1 Dex
+
+**Legacy of Dis:** You know the *<u>friends</u>* cantrip. When you reach 3rd level, you can cast the *<u>disguise self</u>* spell once with this trait and regain the ability to do so when you finish a long rest. 
+
+When you reach 5th level, you can cast the *<u>detect thoughts</u>* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+| Dispater Spells||
+|level|spells|
+|:---:|:----:|
+|1st|charm person
+|2nd|suggestion
+|3rd|Ashardalon's Stride
+|4th|Phantasmal Killer
+|5th|Geas
+
+{width:150px,float:right,border-radius:10px}
+
+**Dispater's Influence:** 
+
+The heritiage you have from your fiendish blood is heavily influenced by Dispater's influence. Regardless of your class, Dispater spells are always concidered an option for you to take. You do not automaticly know them, but they are added to the spell list for any class you take.
+
+\column
+
+#### Mephistopheles Tiefling(subrace)
+as a Mephistopheles Tiefling, you gain the additional subrace features
+
+**Ability Scores:** +1 Con
+
+**Legacy of Cania:** You know the *<u>resistance</u>* cantrip. When you reach 3rd level, you can cast the *<u>charm person</u>* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. 
+
+When you reach 5th level, you can cast the *<u>suggestion</u>* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+| Mephistopheles Spells||
+|level|spells|
+|:---:|:----:|
+|1st|Magic Missile
+|2nd|Heat Metal
+|3rd|Call Lightning
+|4th|Arcane Eye
+|5th|Bigby's Hand
+
+{width:150px,float:right,border-radius:10px}
+
+**Cania's Influence:** 
+
+The heritiage you have from your fiendish blood is heavily influenced by Phlegethos's influence. Regardless of your class, Mephistopheles spells are always concidered an option for you to take. You do not automaticly know them, but they are added to the spell list for any class you take.
+
+#### Zarial Tiefling(subrace)
+as a Zarial Tiefling, you gain the additional subrace features
+
+**Ability Scores:** +1 Str
+
+**Legacy of Avernus:** You know the *<u>green-flame blade</u>* cantrip. When you reach 3rd level, you can cast the *<u>searing smite</u>* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. 
+
+When you reach 5th level, you can cast the *<u>branding smite</u>* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+| Zarial Spells||
+|level|spells|
+|:---:|:----:|
+|1st|Zephyr Strike
+|2nd|Shadow Blade
+|3rd|Elemental Weapon
+|4th|Deathward
+|5th|Banishing Smite
+
+{width:150px,float:right,border-radius:10px}
+
+**Zarial's Influence:** 
+
+The heritiage you have from your fiendish blood is heavily influenced by Zarial's influence. Regardless of your class, Zarial spells are always concidered an option for you to take. You do not automaticly know them, but they are added to the spell list for any class you take.
+
+\page
+
+### Goblinoid
+<u>**Features:**</u>
+
+**Ability Scores:** +1 Con
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and goblin
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Martial Training:** You are proficient with two martial weapons.
+
+![alt-text](https://i.pinimg.com/564x/c7/97/52/c79752907f5d6731ee5b5b9252363b97.jpg){width:300px,height:300px,object-fit:cover,border:"2px solid",border-radius:10px}
+
+
+#### Goblin, Goblinoid(Subrace)
+as a Goblin, you gain the additional subrace features
+
+**Ability Scores:** +2 Dex
+
+**Armor Inclined:** You are always concidered to be proficiant in one leavel heavier armor than you otherwise would be.
+
+**Small and Nimble:** you're size is small, not medium, and your Base Initiative Impact is 8 instead of 10
+
+**Fury of the Small:** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+
+**Nimble Escape:** You can take the Disengage or Hide action as a bonus action on each of your turns.
+
+#### Hobgoblin, Goblinoid(Subrace)
+as a Hobgoblin, you gain the additional subrace features
+
+**Ability Scores:** +1 Int *&* +1 Con
+
+**Communicator:** you gain proficiancy in persuation or intimidation, and can use you intelligence inplace of charisma for such rolls when you are giving an order.
+
+**Saving Face:** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
+
+#### Bugbear, Goblinoid(Subrace)
+as a Bugbear, you gain the additional subrace features
+
+**Ability Scores:** +1 Str *&* +1 Dex
+
+**Long-Limbed:** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+
+**Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+**Sneaky:** You are proficient in the Stealth skill.
+
+**Surprise Attack:** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+
+\page
+
+### Aasimar
+<u>**Features:**</u>
+
+**Ability Scores:** +1 Str
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Celestial
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Celestial Resistance:** You have resistance to necrotic damage and radiant damage.
+
+**Healing Hands:** For an action cost of 2, you can touch a creature and cause it to regain a number of hit points equal to half your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+
+![alt-text](https://64.media.tumblr.com/c72d924c4de3d41b525adfc1567c76ec/tumblr_p3p29pCsUy1sk51m7o1_r2_500.png){width:300px,height:300px,object-fit:cover,border:"2px solid",border-radius:10px}
+
+#### Fallen Aasimar(Subrace)
+as a Fallen Aasimar, you gain the additional subrace features
+
+**Ability Scores:** +2 Cha
+
+**Necrotic Shroud:** Starting at 3rd level, for an action cost of 6, you can unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.
+
+
+Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.
+
+Once you use this trait, you can't use it again until you finish a long rest.
+
+#### Protection Aasimar(Subrace)
+as a Protection Aasimar, you gain the additional subrace features
+
+**Ability Scores:** +2 Wis
+
+**Radiant Soul:** Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.
+Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
+
+Once you use this trait, you can't use it again until you finish a long rest.
+
+#### Scourge Aasimar(Subrace)
+as a Scourge Aasimar, you gain the additional subrace features
+
+**Ability Scores:** +2 Con
+
+**Radiant Consumption:** Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.
+
+Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
+
+Once you use this trait, you can't use it again until you finish a long rest.
+
+
+\page
+
+### Giantkin
+<u>**Features:**</u>
+
+**Ability Scores:** +1 Str
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Celestial
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Feats of Strength:** you gain proficiancy in athletics
+
+**Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+![alt-text](https://i.pinimg.com/564x/5b/18/46/5b1846a41d42b3b56bf5cdc99a424311.jpg){width:300px,height:300px,object-fit:cover,border:"2px solid",border-radius:10px}
+
+#### Firbolg giantkin(Subrace)
+as a Firbolg  you gain the additional subrace features
+
+**Ability Scores:** +2 Wis
+
+**Firbolg Magic:** You can cast detect magic and disguise self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+
+**Hidden Step:** For an action cost of 4, you can magically turn invisible for one minute or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times per day = to your proficiancy.
+
+**Speech of Beast and Leaf:** You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
+\column
+#### Goliath giantkin(Subrace)
+as a Goliath  you gain the additional subrace features
+
+**Ability Scores:** +2 Con
+
+**Mountain Born:** You have resistance to cold damage and you're also acclimated to high altitude, including elevations above 20,000 feet.
+
+|Stone's Endurance Table||
+|prof. bonus|reduction|
+|:---------:|:-------:|
+|2|1d4
+|3|1d6
+|4|1d8
+|5|1d10
+|6|1d12
+
+{width:130px,float:right,border-radius:10px}
+
+**Stone's Endurance:** When you take blugeoning, piercing, or slashing damage you can us an action interupt with an initiative impact of 4 to reduce the incoming damage by 1d4 and you can't use any further action interupts until you've taken a turn. As your proficiancy bonus increase you can reduce more damage with this feature as denoted by the **Stone's Endurance Table**
+
+\page
+### Genasi
+<u>**Features:**</u>
+
+**Ability Scores:** +1 Con
+
+**Base Initiative Impact:** 10
+
+**Languages:** Common and Primordial
+ 
+**Size:** Medium.
+
+**Speed:** 30ft
+
+**Elemental Nature:** you can cast the <u>*absorb elements spell*</u> once for free per long rest. Also, if you have spell slots, you may use them to cast this spell.
+
+When you cast this spell you gain resistance to all types of elemental damage for the duration instread of just the triggering damage type.
+
+![alt-text](https://i.pinimg.com/originals/68/17/59/681759ab05bf485f3881debb8ce79f0e.jpg){width:300px,height:300px,object-fit:cover,border:"2px solid",border-radius:10px}
+
+#### Air Genasi(Subrace)
+as a Air Genasi  you gain the additional subrace features
+
+**Ability Scores:** +2 Dex
+
+**Elemental resistance:** you have resistance to lightning damage
+
+**Unending Breath:** You can hold your breath indefinitely while you're not incapacitated.
+
+**Mingle with the Wind:** You learn the *<u>gust</u>* cantrip. When you reach 3rd level, you can cast the *<u>levitate</u>* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
+
+#### Earth Genasi(Subrace)
+as a Earth Genasi  you gain the additional subrace features
+
+**Ability Scores:** +2 Str
+
+**Elemental resistance:** you have resistance to non-magical blugeoning damage
+
+**Earth Walk:** You can move across difficult terrain made of earth or stone without expending extra movement.
+
+**Mingle with the Wind:** You learn the *<u>mold earth</u>* cantrip. When you reach 3rd level, you can cast the *<u>meld to stone</u>* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
+
+#### Fire Genasi(Subrace)
+as a Fire Genasi  you gain the additional subrace features
+
+**Ability Scores:** +2 Int
+
+**Elemental resistance:** you have resistance to fire damage
+
+**Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red.
+
+**Mingle with the Wind:** You learn the *<u>produce flame</u>* cantrip. When you reach 3rd level, you can cast the *<u>flame blade</u>* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
+
+#### Water Genasi(Subrace)
+as a Water Genasi  you gain the additional subrace features
+
+**Ability Scores:** +2 Wis
+
+**Elemental resistance:** you have resistance to acid damage
+
+**Amphibious:** You can breathe air and water.
+
+**Swim:** You have a swimming speed = to your walking speed
+
+**Call to the Wave:** You know the *<u>shape water</u>* cantrip. When you reach 3rd level, you can cast the create or *<u>destroy water</u>* spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
